@@ -244,3 +244,6 @@ class BagOfVisualWords:
         self._write_file_1d(self._Y, file_name_Y)
 
         logging.info('--- End [BagOfVisualWords.save_data_set] ---')
+
+    def get_histogram(self):
+        pass
