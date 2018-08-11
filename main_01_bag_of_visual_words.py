@@ -1,6 +1,6 @@
 import logging
 import numpy as np
-from bag_of_visual_words import BagOfVisualWords
+from feature.bag_of_visual_words import BagOfVisualWords
 
 logging.basicConfig(format='%(asctime)s [%(levelname)s] %(message)s', level=logging.DEBUG)
 np.set_printoptions(linewidth=200)
