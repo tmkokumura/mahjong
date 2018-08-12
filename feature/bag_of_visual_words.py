@@ -66,7 +66,7 @@ class BagOfVisualWords:
         init
         :param detector: 特徴検出器
         """
-        self._logger = getLogger(__name__)
+        self._logger = getLogger('main')
 
         self._logger.info('--- Start [BagOfVisualWords.__init__] ---')
 
@@ -99,7 +99,7 @@ class BagOfVisualWords:
         :return: None
         """
 
-        logging.info('--- Start [BagOfVisualWords.create_visual_words] ---')
+        self._logger.info('--- Start [BagOfVisualWords.create_visual_words] ---')
 
         features = []
 
@@ -119,23 +119,23 @@ class BagOfVisualWords:
                 img = cv2.imread(os.path.join(src_dir, dir_name, file_name))
 
                 # 特徴検出と特徴量の記述
-                logging.debug('Detecting and computing of ' + file_name)
+                self._logger.debug('Detecting and computing of ' + file_name)
                 kp, des = self._detector.detectAndCompute(img, None)
 
                 # キーポイントが検出されなかった場合は、0ベクトルを仮置き
                 if des is None:
-                    logging.warning('No keypoints are detected on ' + file_name)
+                    self._logger.warning('No keypoints are detected on ' + file_name)
                     des = np.zeros((1, self._dim))
 
                 features.extend(des)
 
         # 特徴量のクラスタリングとセントロイド（＝Visural Word）を計算の計算
-        logging.debug('Calculating visual words')
+        self._logger.debug('Calculating visual words')
 
         # https://blanktar.jp/blog/2016/03/python-visual-words.html
         self._visual_words = MiniBatchKMeans(n_clusters=128).fit(features).cluster_centers_
 
-        logging.info('--- End [BagOfVisualWords.create_visual_words] ---')
+        self._logger.info('--- End [BagOfVisualWords.create_visual_words] ---')
 
     def save_visual_words(self, file_name):
         """
@@ -144,11 +144,11 @@ class BagOfVisualWords:
         :return: None
         """
 
-        logging.info('--- Start [BagOfVisualWords.save_visual_words] ---')
+        self._logger.info('--- Start [BagOfVisualWords.save_visual_words] ---')
 
         self._write_file_2d(self._visual_words, file_name)
 
-        logging.info('--- End [BagOfVisualWords.save_visual_words] ---')
+        self._logger.info('--- End [BagOfVisualWords.save_visual_words] ---')
 
     def load_visual_words(self, file_name):
         """

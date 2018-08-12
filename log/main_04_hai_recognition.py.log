@@ -1,0 +1,2054 @@
+2018-08-12 15:04:08,674 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:04:08,674 main 93 [INFO][__init__] --- Start[Tenfo.__init__] ---
+2018-08-12 15:04:08,674 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:04:08,682 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:04:08,682 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:04:08,682 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:04:08,682 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:05:32,938 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:05:32,938 main 93 [INFO][__init__] --- Start[Tenfo.__init__] ---
+2018-08-12 15:05:32,938 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:07:03,622 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:07:03,623 main 93 [INFO][__init__] --- Start[Tenfo.__init__] ---
+2018-08-12 15:07:03,623 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:07:03,634 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:07:03,634 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:07:03,635 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:07:03,635 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:07:38,672 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:07:38,672 main 93 [INFO][__init__] --- Start[Tenfo.__init__] ---
+2018-08-12 15:07:38,672 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:07:38,680 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:07:38,681 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:07:38,681 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:07:38,681 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:07:38,694 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:07:38,694 main 107 [INFO][__init__] --- End[Tenfo.__init__] ---
+2018-08-12 15:07:38,694 main 125 [INFO][read_image] --- Start[Tenfo.read_image] ---
+2018-08-12 15:07:38,715 main 127 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:07:38,715 main 128 [INFO][read_image] --- End[Tenfo.read_image] ---
+2018-08-12 15:07:38,715 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:15,209 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:08:15,209 main 93 [INFO][__init__] --- Start[Tenfo.__init__] ---
+2018-08-12 15:08:15,210 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:08:15,217 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:08:15,217 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:08:15,217 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:08:15,217 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:08:15,231 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:08:15,231 main 107 [INFO][__init__] --- End[Tenfo.__init__] ---
+2018-08-12 15:08:15,231 main 125 [INFO][read_image] --- Start[Tenfo.read_image] ---
+2018-08-12 15:08:15,234 main 127 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:08:15,234 main 128 [INFO][read_image] --- End[Tenfo.read_image] ---
+2018-08-12 15:08:15,234 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:18,111 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:18,112 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:18,112 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:18,112 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:33,658 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:33,658 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:33,659 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:33,659 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:35,281 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:35,281 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:35,281 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:35,281 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:36,585 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:36,585 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:36,585 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:36,585 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:37,399 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:37,399 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:37,400 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:37,400 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:38,115 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:38,116 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:38,116 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:38,116 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:38,847 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:38,847 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:38,847 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:38,847 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:39,440 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:39,440 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:39,440 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:39,440 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:40,215 main 148 [INFO][predict] predict: [25]
+2018-08-12 15:08:40,216 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:40,216 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:08:40,216 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:40,927 main 148 [INFO][predict] predict: [25]
+2018-08-12 15:08:40,928 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:40,928 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:08:40,928 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:41,970 main 148 [INFO][predict] predict: [25]
+2018-08-12 15:08:41,970 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:41,971 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:08:41,971 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:43,119 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:43,120 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:43,120 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:43,120 main 140 [INFO][predict] --- Start[Tenfo.predict] ---
+2018-08-12 15:08:44,487 main 148 [INFO][predict] predict: [20]
+2018-08-12 15:08:44,487 main 154 [INFO][predict] --- End[Tenfo.predict] ---
+2018-08-12 15:08:44,487 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:08:44,488 main 159 [INFO][dislpay] --- Start[Tenfo.dislpay] ---
+2018-08-12 15:19:30,091 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:19:30,091 main 93 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:19:30,091 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:19:30,099 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:19:30,100 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:19:30,100 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:19:30,100 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:19:30,114 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:19:30,114 main 107 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:19:30,114 main 125 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:19:30,117 main 127 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:19:30,118 main 128 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:19:30,118 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,422 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:20:01,422 main 93 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:20:01,422 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:20:01,422 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:20:01,422 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:20:01,422 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:20:01,422 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:20:01,438 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:20:01,438 main 107 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:20:01,438 main 125 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:20:01,454 main 127 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:20:01,454 main 128 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:20:01,454 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,516 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,516 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,516 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,516 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,579 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,579 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,579 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,579 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,641 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,641 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,641 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,641 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,704 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,704 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,704 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,704 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,735 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,735 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,735 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,735 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,750 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,750 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,750 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,750 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,782 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,782 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,782 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,782 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,813 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,813 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,813 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,813 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,831 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,831 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,831 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:20:01,831 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,846 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,846 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,846 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:20:01,846 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,862 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,878 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,878 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:20:01,878 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:01,971 main 144 [INFO][predict] 1
+2018-08-12 15:20:01,971 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:01,971 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:01,971 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:02,096 main 144 [INFO][predict] 1
+2018-08-12 15:20:02,096 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:02,096 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:02,096 main 156 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 15:20:26,182 main 177 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 15:20:26,183 main 45 [INFO][<module>] --- end ---
+2018-08-12 15:20:47,288 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:20:47,288 main 93 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:20:47,288 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:20:47,288 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:20:47,288 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:20:47,288 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:20:47,288 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:20:47,317 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:20:47,317 main 107 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:20:47,317 main 125 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:20:47,321 main 127 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:20:47,321 main 128 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:20:47,321 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,373 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,373 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,373 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,373 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,437 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,437 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,437 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,437 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,515 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,515 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,515 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,515 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,571 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,586 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,586 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,586 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,602 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,602 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,602 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,602 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,618 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,618 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,618 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,618 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,664 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,664 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,664 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,664 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,680 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,696 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,696 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,696 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,696 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,696 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,696 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:20:47,696 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,727 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,727 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,727 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:20:47,727 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,743 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,743 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,743 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:20:47,743 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:47,863 main 144 [INFO][predict] 128
+2018-08-12 15:20:47,863 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:47,863 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:47,863 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:20:48,019 main 144 [INFO][predict] 128
+2018-08-12 15:20:48,019 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:20:48,019 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:20:48,019 main 156 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 15:20:54,939 main 177 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 15:20:54,939 main 45 [INFO][<module>] --- end ---
+2018-08-12 15:22:05,848 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:22:05,848 main 93 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:22:05,848 main 96 [INFO][__init__] load SVM model
+2018-08-12 15:22:05,848 main 100 [INFO][__init__] load Visual Words
+2018-08-12 15:22:05,848 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:22:05,848 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:22:05,848 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:22:05,879 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:22:05,879 main 107 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:22:05,879 main 125 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:22:05,879 main 127 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:22:05,879 main 128 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:22:05,879 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:05,957 main 144 [INFO][predict] [1, 2, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 3, 0]
+2018-08-12 15:22:05,957 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:05,957 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:05,957 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,035 main 144 [INFO][predict] [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 3, 0, 0, 0, 0, 0, 0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0]
+2018-08-12 15:22:06,035 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,035 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,035 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,098 main 144 [INFO][predict] [1, 3, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 2, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
+2018-08-12 15:22:06,113 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,113 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,113 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,176 main 144 [INFO][predict] [0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 2, 3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+2018-08-12 15:22:06,176 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,176 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,176 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,191 main 144 [INFO][predict] [0, 0, 0, 6, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+2018-08-12 15:22:06,191 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,191 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,191 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,223 main 144 [INFO][predict] [0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-08-12 15:22:06,223 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,223 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,223 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,270 main 144 [INFO][predict] [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+2018-08-12 15:22:06,270 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,270 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,270 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,301 main 144 [INFO][predict] [0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-08-12 15:22:06,303 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,303 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,303 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,317 main 144 [INFO][predict] [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]
+2018-08-12 15:22:06,319 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,319 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:22:06,319 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,326 main 144 [INFO][predict] [0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-08-12 15:22:06,342 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,342 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:22:06,342 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,357 main 144 [INFO][predict] [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2018-08-12 15:22:06,357 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,357 main 42 [INFO][<module>] recognized: 8p
+2018-08-12 15:22:06,357 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,454 main 144 [INFO][predict] [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 7, 0, 0, 0, 1, 2, 0, 0, 3, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 6, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 2, 5, 0, 0, 0, 0, 2, 0, 0, 0, 0, 4, 0, 0, 2, 1, 0, 0, 0, 1, 0, 0, 0, 0, 7, 0]
+2018-08-12 15:22:06,454 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,454 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,454 main 140 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:22:06,579 main 144 [INFO][predict] [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0, 8, 0, 0, 0, 5, 2, 0, 0, 2, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 6, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0]
+2018-08-12 15:22:06,579 main 151 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:22:06,579 main 42 [INFO][<module>] recognized: 6s
+2018-08-12 15:22:06,579 main 156 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 15:32:39,769 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:32:39,769 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:32:39,769 main 97 [INFO][__init__] load SVM model
+2018-08-12 15:32:39,769 main 101 [INFO][__init__] load Visual Words
+2018-08-12 15:32:39,769 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:32:39,769 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:32:39,769 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:32:39,785 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:32:39,785 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 15:32:39,800 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:32:39,800 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:32:39,800 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:32:39,800 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:32:39,800 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:32:39,878 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:33:07,171 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:33:07,171 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:33:07,171 main 97 [INFO][__init__] load SVM model
+2018-08-12 15:33:07,187 main 101 [INFO][__init__] load Visual Words
+2018-08-12 15:33:07,187 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:33:07,187 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:33:07,187 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:33:07,202 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:33:07,202 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 15:34:07,864 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:34:07,864 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:34:07,864 main 97 [INFO][__init__] load SVM model
+2018-08-12 15:34:07,864 main 101 [INFO][__init__] load Visual Words
+2018-08-12 15:34:07,864 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:34:07,864 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:34:07,864 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:34:07,879 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:34:07,879 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 15:34:07,879 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:34:07,879 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:34:07,879 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:34:07,879 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:34:07,879 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:07,957 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:07,957 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:07,957 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:07,957 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 15:34:07,957 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,035 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,035 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,035 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,035 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 15:34:08,035 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,114 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,114 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,114 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,114 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 15:34:08,114 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,192 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,192 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,192 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,192 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 15:34:08,192 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,207 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,207 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,207 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,207 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 15:34:08,207 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,223 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,223 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,239 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,239 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 15:34:08,239 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,254 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,254 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,254 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,254 main 42 [INFO][<module>] recognized: nan
+2018-08-12 15:34:08,254 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,285 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,285 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,285 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,285 main 42 [INFO][<module>] recognized: nan
+2018-08-12 15:34:08,301 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,301 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,301 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,317 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,317 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 15:34:08,317 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,347 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,348 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,350 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,350 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 15:34:08,350 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,373 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,373 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,375 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,375 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 15:34:08,375 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,469 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,485 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,485 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,485 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 15:34:08,485 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:34:08,610 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:34:08,610 main 152 [INFO][predict] normalize: 128
+2018-08-12 15:34:08,610 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 15:34:08,610 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 15:34:08,610 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 15:43:24,805 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 15:43:24,806 main 45 [INFO][<module>] --- end ---
+2018-08-12 15:52:25,975 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:52:25,975 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:52:25,975 main 97 [INFO][__init__] load SVM model
+2018-08-12 15:52:25,983 main 101 [INFO][__init__] load Visual Words
+2018-08-12 15:52:25,983 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:52:25,983 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:52:25,983 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:52:25,997 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:52:25,997 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 15:52:25,997 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:52:25,998 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:52:26,001 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:52:26,002 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:52:26,002 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:52:26,072 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:52:26,072 main 152 [INFO][predict] normalized: 128
+2018-08-12 15:55:51,757 main 18 [INFO][<module>] --- start ---
+2018-08-12 15:55:51,757 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 15:55:51,757 main 97 [INFO][__init__] load SVM model
+2018-08-12 15:55:51,773 main 101 [INFO][__init__] load Visual Words
+2018-08-12 15:55:51,773 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 15:55:51,773 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 15:55:51,773 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:55:51,789 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 15:55:51,789 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 15:55:51,789 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 15:55:51,789 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 15:55:51,804 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 15:55:51,804 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 15:55:51,804 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 15:55:51,862 main 149 [INFO][predict] histogram: 128
+2018-08-12 15:55:51,862 main 152 [INFO][predict] normalized: 128
+2018-08-12 15:58:16,201 main 177 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 15:58:16,209 main 45 [INFO][<module>] --- end ---
+2018-08-12 15:58:18,692 main 180 [INFO][dislpay] --- End[Tenfo.dislpay] ---
+2018-08-12 15:58:18,703 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:27:25,435 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:27:25,435 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:27:25,435 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:27:25,451 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:27:25,451 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:27:25,451 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:27:25,451 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:27:25,466 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:27:25,466 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:27:25,466 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:27:25,466 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:27:25,466 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:27:25,466 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:27:25,466 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,544 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,544 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,544 main 159 [INFO][predict] proba: [[0.0888527  0.0017056  0.0024929  0.03838587 0.00204616 0.00130699
+  0.03649436 0.00203396 0.00170274 0.02502014 0.00218361 0.00106367
+  0.01878526 0.0081311  0.00151167 0.00131898 0.00095795 0.00104952
+  0.00897624 0.00199783 0.00097939 0.3624789  0.00275226 0.00139009
+  0.35587991 0.002186   0.00112286 0.00696317 0.00215195 0.00158223
+  0.00249015 0.00150363 0.00293456 0.00298166 0.00258744 0.00170167
+  0.00229689]]
+2018-08-12 16:27:25,544 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,544 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:27:25,544 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,607 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,607 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,607 main 159 [INFO][predict] proba: [[2.84814329e-02 1.12606847e-03 1.28837818e-03 1.40826616e-02
+  1.13717058e-03 5.70853147e-04 4.63305493e-03 9.50446122e-04
+  7.55595973e-04 3.22043098e-02 9.28466887e-04 5.82253425e-04
+  2.48995990e-02 4.28901940e-03 7.72707103e-04 7.13120017e-04
+  4.53982088e-04 5.25449765e-04 5.40784456e-03 9.42336429e-04
+  4.89220807e-04 8.33593525e-01 2.06384292e-03 9.01616810e-04
+  1.97097196e-02 1.05665682e-03 6.57227226e-04 3.29646936e-03
+  1.12331089e-03 9.11536998e-04 2.43953062e-03 1.06367240e-03
+  2.26683771e-03 2.12098024e-03 9.79843402e-04 1.06193207e-03
+  1.51932708e-03]]
+2018-08-12 16:27:25,607 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,607 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:27:25,607 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,685 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,685 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,685 main 159 [INFO][predict] proba: [[0.058431   0.00308745 0.00740418 0.05600449 0.00384444 0.00201449
+  0.05001231 0.00358133 0.00268275 0.22554375 0.00462418 0.00200183
+  0.06280772 0.05634441 0.00262643 0.00262897 0.00205884 0.00241819
+  0.00969574 0.00761114 0.00179792 0.04454377 0.00429209 0.00302735
+  0.17702432 0.00443241 0.00250076 0.1483263  0.00360466 0.0029373
+  0.0066734  0.00306558 0.00464629 0.00785116 0.00655517 0.00487956
+  0.00841832]]
+2018-08-12 16:27:25,685 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,685 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:27:25,685 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,763 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,763 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,763 main 159 [INFO][predict] proba: [[1.51610224e-02 3.66349620e-04 8.38070276e-04 1.97392774e-03
+  3.28149183e-04 2.00989821e-04 1.58289976e-03 3.11258817e-04
+  2.21740487e-04 9.64801858e-02 3.22252759e-04 1.86356187e-04
+  9.99312122e-03 4.42491863e-03 2.76574529e-04 2.38511441e-04
+  1.83413156e-04 1.92757976e-04 3.05464915e-03 6.07758270e-04
+  1.83488462e-04 3.26567408e-02 3.90629126e-04 2.94483543e-04
+  6.84208199e-02 3.07232921e-04 2.02185537e-04 7.54597881e-01
+  2.52241402e-04 2.93455409e-04 6.16140572e-04 3.25743237e-04
+  5.90548473e-04 7.15026409e-04 6.88199783e-04 5.45233191e-04
+  1.97504313e-03]]
+2018-08-12 16:27:25,763 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,763 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:27:25,763 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,779 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,779 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,779 main 159 [INFO][predict] proba: [[3.01392703e-04 9.81374210e-01 3.17896859e-04 1.97894077e-04
+  1.51527174e-03 2.99794753e-04 1.67047843e-04 1.45460768e-03
+  3.19873587e-04 1.49723082e-04 2.08469923e-03 1.53217644e-04
+  1.10388182e-04 1.09857122e-04 6.38546831e-04 3.04003451e-04
+  1.08802842e-04 1.03284798e-04 1.38935135e-04 6.11864025e-04
+  1.08548260e-04 1.52754360e-04 9.07994946e-04 7.22777752e-04
+  2.58212668e-04 6.44524499e-04 1.12282403e-04 1.58721947e-04
+  4.43212054e-04 5.32260501e-04 4.82722180e-04 3.19559771e-03
+  2.98741305e-04 5.15898167e-04 3.15675222e-04 4.23885016e-04
+  2.64878959e-04]]
+2018-08-12 16:27:25,779 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,779 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:27:25,779 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,794 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,794 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,810 main 159 [INFO][predict] proba: [[3.22531764e-04 9.88636290e-01 2.31478832e-04 1.90008206e-04
+  6.18875436e-04 2.55758900e-04 1.50440854e-04 6.11400023e-04
+  2.99176077e-04 1.39471608e-04 1.20167454e-03 1.44782914e-04
+  1.15963461e-04 1.03598000e-04 3.25595664e-04 2.03554063e-04
+  1.06437310e-04 1.08753222e-04 1.11815828e-04 4.75777205e-04
+  1.10953009e-04 1.46959371e-04 5.11842654e-04 4.15343920e-04
+  2.35972650e-04 3.34691224e-04 1.14546490e-04 1.49627946e-04
+  3.56114912e-04 5.01937333e-04 3.02908012e-04 1.39964495e-03
+  2.14732433e-04 3.06114447e-04 1.71233858e-04 1.82651233e-04
+  1.91341154e-04]]
+2018-08-12 16:27:25,810 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,810 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:27:25,810 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,825 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,825 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,841 main 159 [INFO][predict] proba: [[0.00482804 0.04215241 0.00144616 0.00664061 0.08616339 0.00239987
+  0.00671164 0.22489534 0.00801633 0.00184912 0.0145183  0.00133482
+  0.00205269 0.00170688 0.01016836 0.00566645 0.00093997 0.00101629
+  0.00267618 0.00667071 0.00072512 0.00189607 0.01455402 0.00551525
+  0.01080463 0.01419499 0.00092813 0.00147363 0.00673956 0.00563173
+  0.01149005 0.02988729 0.006401   0.40194232 0.02987371 0.02121653
+  0.00487239]]
+2018-08-12 16:27:25,841 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,841 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:27:25,841 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,857 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,857 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,872 main 159 [INFO][predict] proba: [[0.0035914  0.040482   0.00191531 0.00638039 0.2036865  0.00253234
+  0.00511874 0.16656432 0.00964693 0.00172869 0.0142888  0.00136471
+  0.00186882 0.00156118 0.01161512 0.00467388 0.00101094 0.00108342
+  0.00209604 0.00850368 0.0007335  0.00173102 0.04008187 0.00575839
+  0.01011611 0.02230859 0.00092502 0.00165261 0.00728288 0.00660199
+  0.00572014 0.06028672 0.0033239  0.32422075 0.00763151 0.00658191
+  0.00532989]]
+2018-08-12 16:27:25,872 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,872 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:27:25,872 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,872 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,872 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,888 main 159 [INFO][predict] proba: [[2.43187634e-03 6.63533735e-02 1.01466092e-03 3.17765647e-03
+  6.13067657e-02 6.55786868e-03 1.77989731e-03 4.10987827e-01
+  1.08397762e-02 6.00681745e-04 7.04486340e-03 6.95754305e-04
+  5.82994798e-04 4.75239372e-04 1.98727716e-03 8.77347354e-04
+  6.26116632e-04 6.32006402e-04 6.55963536e-04 3.44104994e-03
+  3.16682219e-04 8.56585733e-04 6.91557172e-03 4.78080160e-03
+  4.99521522e-03 8.74167970e-03 4.15522471e-04 7.15760382e-04
+  2.21913127e-03 4.51375717e-03 3.22314423e-03 3.38236821e-01
+  1.69383593e-03 3.15387443e-02 3.36020904e-03 3.13015562e-03
+  2.27738551e-03]]
+2018-08-12 16:27:25,888 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,888 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:27:25,888 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,904 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,904 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,904 main 159 [INFO][predict] proba: [[0.00581915 0.24383255 0.00441509 0.00651678 0.10511536 0.00267872
+  0.00509562 0.16282854 0.00695063 0.00284172 0.01664116 0.00135031
+  0.00213815 0.00162831 0.00497823 0.00202955 0.00128288 0.00122969
+  0.00247977 0.04048689 0.00073081 0.00225047 0.11253872 0.00797748
+  0.00968431 0.01388095 0.00109962 0.00269911 0.00536209 0.0061266
+  0.0122084  0.06714956 0.00516211 0.09972973 0.00786005 0.01015714
+  0.01504378]]
+2018-08-12 16:27:25,904 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,904 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:27:25,904 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:25,919 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:25,919 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:25,935 main 159 [INFO][predict] proba: [[0.00648908 0.06058322 0.00373252 0.00451162 0.05041423 0.00280486
+  0.00443186 0.0925718  0.00765809 0.00256467 0.00902884 0.001274
+  0.00177517 0.001489   0.00543964 0.00258184 0.0013429  0.00125572
+  0.0025284  0.12455051 0.00062282 0.00210987 0.18471351 0.00926452
+  0.01078186 0.02203038 0.00117743 0.00242531 0.00305964 0.00737102
+  0.00905039 0.28609765 0.00667966 0.02741248 0.00985069 0.02140528
+  0.00891952]]
+2018-08-12 16:27:25,935 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:25,935 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:27:25,935 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:26,029 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:26,029 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:26,044 main 159 [INFO][predict] proba: [[0.001985   0.00402142 0.00329078 0.00223283 0.00361509 0.12652151
+  0.00214262 0.00797236 0.46005578 0.00123879 0.0033252  0.00671536
+  0.00205632 0.00134554 0.00153262 0.00131668 0.26084302 0.04993468
+  0.00098026 0.00352406 0.00147127 0.00139499 0.00435753 0.00842738
+  0.00380664 0.00493358 0.00333143 0.00181167 0.00198842 0.00322785
+  0.00216259 0.00299325 0.00181203 0.0056459  0.00199203 0.00256911
+  0.00342439]]
+2018-08-12 16:27:26,044 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:26,044 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:27:26,044 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:27:26,169 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:27:26,169 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:27:26,169 main 159 [INFO][predict] proba: [[0.0086414  0.00724744 0.01576096 0.01006906 0.00952758 0.06952522
+  0.00940328 0.0189684  0.16048879 0.00753694 0.01058592 0.01310188
+  0.01313783 0.00944966 0.00459782 0.00520667 0.38917005 0.05611656
+  0.00527754 0.00905306 0.00595937 0.00744356 0.00913762 0.02219221
+  0.01659928 0.01481522 0.01781605 0.01045041 0.00716116 0.01246875
+  0.00426138 0.00437818 0.00633052 0.01140607 0.00352905 0.00595801
+  0.00722711]]
+2018-08-12 16:27:26,169 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:27:26,169 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:27:26,169 main 169 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:46:20,730 main 190 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:46:20,730 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:46:43,988 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:46:43,988 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:46:43,988 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:46:43,988 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:46:43,988 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:46:43,988 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:46:43,988 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:46:44,004 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:46:44,004 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:46:44,004 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:46:44,004 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:46:44,004 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:46:44,004 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:46:44,004 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:46:44,097 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:46:44,097 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:46:44,097 main 159 [INFO][predict] proba: [[0.0888527  0.0017056  0.0024929  0.03838587 0.00204616 0.00130699
+  0.03649436 0.00203396 0.00170274 0.02502014 0.00218361 0.00106367
+  0.01878526 0.0081311  0.00151167 0.00131898 0.00095795 0.00104952
+  0.00897624 0.00199783 0.00097939 0.3624789  0.00275226 0.00139009
+  0.35587991 0.002186   0.00112286 0.00696317 0.00215195 0.00158223
+  0.00249015 0.00150363 0.00293456 0.00298166 0.00258744 0.00170167
+  0.00229689]]
+2018-08-12 16:47:16,918 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:47:16,918 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:47:16,918 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:47:16,981 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:47:16,981 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:47:16,981 main 159 [INFO][predict] proba: [[2.84814329e-02 1.12606847e-03 1.28837818e-03 1.40826616e-02
+  1.13717058e-03 5.70853147e-04 4.63305493e-03 9.50446122e-04
+  7.55595973e-04 3.22043098e-02 9.28466887e-04 5.82253425e-04
+  2.48995990e-02 4.28901940e-03 7.72707103e-04 7.13120017e-04
+  4.53982088e-04 5.25449765e-04 5.40784456e-03 9.42336429e-04
+  4.89220807e-04 8.33593525e-01 2.06384292e-03 9.01616810e-04
+  1.97097196e-02 1.05665682e-03 6.57227226e-04 3.29646936e-03
+  1.12331089e-03 9.11536998e-04 2.43953062e-03 1.06367240e-03
+  2.26683771e-03 2.12098024e-03 9.79843402e-04 1.06193207e-03
+  1.51932708e-03]]
+2018-08-12 16:47:18,517 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:47:18,517 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:47:18,517 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:47:18,611 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:47:18,611 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:47:18,611 main 159 [INFO][predict] proba: [[0.058431   0.00308745 0.00740418 0.05600449 0.00384444 0.00201449
+  0.05001231 0.00358133 0.00268275 0.22554375 0.00462418 0.00200183
+  0.06280772 0.05634441 0.00262643 0.00262897 0.00205884 0.00241819
+  0.00969574 0.00761114 0.00179792 0.04454377 0.00429209 0.00302735
+  0.17702432 0.00443241 0.00250076 0.1483263  0.00360466 0.0029373
+  0.0066734  0.00306558 0.00464629 0.00785116 0.00655517 0.00487956
+  0.00841832]]
+2018-08-12 16:47:20,831 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:47:20,831 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:47:20,831 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:47:20,910 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:47:20,910 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:47:20,910 main 159 [INFO][predict] proba: [[1.51610224e-02 3.66349620e-04 8.38070276e-04 1.97392774e-03
+  3.28149183e-04 2.00989821e-04 1.58289976e-03 3.11258817e-04
+  2.21740487e-04 9.64801858e-02 3.22252759e-04 1.86356187e-04
+  9.99312122e-03 4.42491863e-03 2.76574529e-04 2.38511441e-04
+  1.83413156e-04 1.92757976e-04 3.05464915e-03 6.07758270e-04
+  1.83488462e-04 3.26567408e-02 3.90629126e-04 2.94483543e-04
+  6.84208199e-02 3.07232921e-04 2.02185537e-04 7.54597881e-01
+  2.52241402e-04 2.93455409e-04 6.16140572e-04 3.25743237e-04
+  5.90548473e-04 7.15026409e-04 6.88199783e-04 5.45233191e-04
+  1.97504313e-03]]
+2018-08-12 16:47:22,388 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:47:22,389 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:47:22,390 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:47:22,419 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:47:22,419 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:47:22,419 main 159 [INFO][predict] proba: [[3.01392703e-04 9.81374210e-01 3.17896859e-04 1.97894077e-04
+  1.51527174e-03 2.99794753e-04 1.67047843e-04 1.45460768e-03
+  3.19873587e-04 1.49723082e-04 2.08469923e-03 1.53217644e-04
+  1.10388182e-04 1.09857122e-04 6.38546831e-04 3.04003451e-04
+  1.08802842e-04 1.03284798e-04 1.38935135e-04 6.11864025e-04
+  1.08548260e-04 1.52754360e-04 9.07994946e-04 7.22777752e-04
+  2.58212668e-04 6.44524499e-04 1.12282403e-04 1.58721947e-04
+  4.43212054e-04 5.32260501e-04 4.82722180e-04 3.19559771e-03
+  2.98741305e-04 5.15898167e-04 3.15675222e-04 4.23885016e-04
+  2.64878959e-04]]
+2018-08-12 16:47:23,528 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:47:23,528 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:47:23,528 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:47:23,544 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:47:23,544 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:47:23,559 main 159 [INFO][predict] proba: [[3.22531764e-04 9.88636290e-01 2.31478832e-04 1.90008206e-04
+  6.18875436e-04 2.55758900e-04 1.50440854e-04 6.11400023e-04
+  2.99176077e-04 1.39471608e-04 1.20167454e-03 1.44782914e-04
+  1.15963461e-04 1.03598000e-04 3.25595664e-04 2.03554063e-04
+  1.06437310e-04 1.08753222e-04 1.11815828e-04 4.75777205e-04
+  1.10953009e-04 1.46959371e-04 5.11842654e-04 4.15343920e-04
+  2.35972650e-04 3.34691224e-04 1.14546490e-04 1.49627946e-04
+  3.56114912e-04 5.01937333e-04 3.02908012e-04 1.39964495e-03
+  2.14732433e-04 3.06114447e-04 1.71233858e-04 1.82651233e-04
+  1.91341154e-04]]
+2018-08-12 16:47:25,280 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:47:25,280 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:47:25,280 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:47:25,318 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:47:25,319 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:47:25,323 main 159 [INFO][predict] proba: [[0.00482804 0.04215241 0.00144616 0.00664061 0.08616339 0.00239987
+  0.00671164 0.22489534 0.00801633 0.00184912 0.0145183  0.00133482
+  0.00205269 0.00170688 0.01016836 0.00566645 0.00093997 0.00101629
+  0.00267618 0.00667071 0.00072512 0.00189607 0.01455402 0.00551525
+  0.01080463 0.01419499 0.00092813 0.00147363 0.00673956 0.00563173
+  0.01149005 0.02988729 0.006401   0.40194232 0.02987371 0.02121653
+  0.00487239]]
+2018-08-12 16:48:12,002 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:12,002 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:48:12,002 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:12,034 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:12,034 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:12,034 main 159 [INFO][predict] proba: [[0.0035914  0.040482   0.00191531 0.00638039 0.2036865  0.00253234
+  0.00511874 0.16656432 0.00964693 0.00172869 0.0142888  0.00136471
+  0.00186882 0.00156118 0.01161512 0.00467388 0.00101094 0.00108342
+  0.00209604 0.00850368 0.0007335  0.00173102 0.04008187 0.00575839
+  0.01011611 0.02230859 0.00092502 0.00165261 0.00728288 0.00660199
+  0.00572014 0.06028672 0.0033239  0.32422075 0.00763151 0.00658191
+  0.00532989]]
+2018-08-12 16:48:15,897 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:15,897 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:48:15,897 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:15,912 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:15,912 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:15,912 main 159 [INFO][predict] proba: [[2.43187634e-03 6.63533735e-02 1.01466092e-03 3.17765647e-03
+  6.13067657e-02 6.55786868e-03 1.77989731e-03 4.10987827e-01
+  1.08397762e-02 6.00681745e-04 7.04486340e-03 6.95754305e-04
+  5.82994798e-04 4.75239372e-04 1.98727716e-03 8.77347354e-04
+  6.26116632e-04 6.32006402e-04 6.55963536e-04 3.44104994e-03
+  3.16682219e-04 8.56585733e-04 6.91557172e-03 4.78080160e-03
+  4.99521522e-03 8.74167970e-03 4.15522471e-04 7.15760382e-04
+  2.21913127e-03 4.51375717e-03 3.22314423e-03 3.38236821e-01
+  1.69383593e-03 3.15387443e-02 3.36020904e-03 3.13015562e-03
+  2.27738551e-03]]
+2018-08-12 16:48:15,912 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:15,912 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:48:15,912 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:15,943 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:15,943 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:15,943 main 159 [INFO][predict] proba: [[0.00581915 0.24383255 0.00441509 0.00651678 0.10511536 0.00267872
+  0.00509562 0.16282854 0.00695063 0.00284172 0.01664116 0.00135031
+  0.00213815 0.00162831 0.00497823 0.00202955 0.00128288 0.00122969
+  0.00247977 0.04048689 0.00073081 0.00225047 0.11253872 0.00797748
+  0.00968431 0.01388095 0.00109962 0.00269911 0.00536209 0.0061266
+  0.0122084  0.06714956 0.00516211 0.09972973 0.00786005 0.01015714
+  0.01504378]]
+2018-08-12 16:48:15,943 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:15,943 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:48:15,943 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:15,959 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:15,959 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:15,959 main 159 [INFO][predict] proba: [[0.00648908 0.06058322 0.00373252 0.00451162 0.05041423 0.00280486
+  0.00443186 0.0925718  0.00765809 0.00256467 0.00902884 0.001274
+  0.00177517 0.001489   0.00543964 0.00258184 0.0013429  0.00125572
+  0.0025284  0.12455051 0.00062282 0.00210987 0.18471351 0.00926452
+  0.01078186 0.02203038 0.00117743 0.00242531 0.00305964 0.00737102
+  0.00905039 0.28609765 0.00667966 0.02741248 0.00985069 0.02140528
+  0.00891952]]
+2018-08-12 16:48:15,959 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:15,959 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:48:15,959 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:16,084 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:16,084 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:16,084 main 159 [INFO][predict] proba: [[0.001985   0.00402142 0.00329078 0.00223283 0.00361509 0.12652151
+  0.00214262 0.00797236 0.46005578 0.00123879 0.0033252  0.00671536
+  0.00205632 0.00134554 0.00153262 0.00131668 0.26084302 0.04993468
+  0.00098026 0.00352406 0.00147127 0.00139499 0.00435753 0.00842738
+  0.00380664 0.00493358 0.00333143 0.00181167 0.00198842 0.00322785
+  0.00216259 0.00299325 0.00181203 0.0056459  0.00199203 0.00256911
+  0.00342439]]
+2018-08-12 16:48:16,084 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:16,084 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:48:16,084 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:16,240 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:16,240 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:16,240 main 159 [INFO][predict] proba: [[0.0086414  0.00724744 0.01576096 0.01006906 0.00952758 0.06952522
+  0.00940328 0.0189684  0.16048879 0.00753694 0.01058592 0.01310188
+  0.01313783 0.00944966 0.00459782 0.00520667 0.38917005 0.05611656
+  0.00527754 0.00905306 0.00595937 0.00744356 0.00913762 0.02219221
+  0.01659928 0.01481522 0.01781605 0.01045041 0.00716116 0.01246875
+  0.00426138 0.00437818 0.00633052 0.01140607 0.00352905 0.00595801
+  0.00722711]]
+2018-08-12 16:48:16,240 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:16,240 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:48:16,240 main 169 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:48:45,908 main 190 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:48:45,908 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:48:51,924 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:48:51,924 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:48:51,924 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:48:51,924 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:48:51,939 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:48:51,939 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:48:51,939 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:48:51,939 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:48:51,939 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:48:51,955 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:48:51,955 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:48:51,955 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:48:51,955 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:48:51,955 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,017 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,017 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,033 main 159 [INFO][predict] proba: [[0.0888527  0.0017056  0.0024929  0.03838587 0.00204616 0.00130699
+  0.03649436 0.00203396 0.00170274 0.02502014 0.00218361 0.00106367
+  0.01878526 0.0081311  0.00151167 0.00131898 0.00095795 0.00104952
+  0.00897624 0.00199783 0.00097939 0.3624789  0.00275226 0.00139009
+  0.35587991 0.002186   0.00112286 0.00696317 0.00215195 0.00158223
+  0.00249015 0.00150363 0.00293456 0.00298166 0.00258744 0.00170167
+  0.00229689]]
+2018-08-12 16:48:52,033 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,033 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:48:52,033 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,095 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,095 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,095 main 159 [INFO][predict] proba: [[2.84814329e-02 1.12606847e-03 1.28837818e-03 1.40826616e-02
+  1.13717058e-03 5.70853147e-04 4.63305493e-03 9.50446122e-04
+  7.55595973e-04 3.22043098e-02 9.28466887e-04 5.82253425e-04
+  2.48995990e-02 4.28901940e-03 7.72707103e-04 7.13120017e-04
+  4.53982088e-04 5.25449765e-04 5.40784456e-03 9.42336429e-04
+  4.89220807e-04 8.33593525e-01 2.06384292e-03 9.01616810e-04
+  1.97097196e-02 1.05665682e-03 6.57227226e-04 3.29646936e-03
+  1.12331089e-03 9.11536998e-04 2.43953062e-03 1.06367240e-03
+  2.26683771e-03 2.12098024e-03 9.79843402e-04 1.06193207e-03
+  1.51932708e-03]]
+2018-08-12 16:48:52,095 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,095 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:48:52,095 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,174 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,174 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,174 main 159 [INFO][predict] proba: [[0.058431   0.00308745 0.00740418 0.05600449 0.00384444 0.00201449
+  0.05001231 0.00358133 0.00268275 0.22554375 0.00462418 0.00200183
+  0.06280772 0.05634441 0.00262643 0.00262897 0.00205884 0.00241819
+  0.00969574 0.00761114 0.00179792 0.04454377 0.00429209 0.00302735
+  0.17702432 0.00443241 0.00250076 0.1483263  0.00360466 0.0029373
+  0.0066734  0.00306558 0.00464629 0.00785116 0.00655517 0.00487956
+  0.00841832]]
+2018-08-12 16:48:52,174 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,174 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:48:52,174 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,236 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,252 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,252 main 159 [INFO][predict] proba: [[1.51610224e-02 3.66349620e-04 8.38070276e-04 1.97392774e-03
+  3.28149183e-04 2.00989821e-04 1.58289976e-03 3.11258817e-04
+  2.21740487e-04 9.64801858e-02 3.22252759e-04 1.86356187e-04
+  9.99312122e-03 4.42491863e-03 2.76574529e-04 2.38511441e-04
+  1.83413156e-04 1.92757976e-04 3.05464915e-03 6.07758270e-04
+  1.83488462e-04 3.26567408e-02 3.90629126e-04 2.94483543e-04
+  6.84208199e-02 3.07232921e-04 2.02185537e-04 7.54597881e-01
+  2.52241402e-04 2.93455409e-04 6.16140572e-04 3.25743237e-04
+  5.90548473e-04 7.15026409e-04 6.88199783e-04 5.45233191e-04
+  1.97504313e-03]]
+2018-08-12 16:48:52,252 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,252 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:48:52,252 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,267 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,267 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,283 main 159 [INFO][predict] proba: [[3.01392703e-04 9.81374210e-01 3.17896859e-04 1.97894077e-04
+  1.51527174e-03 2.99794753e-04 1.67047843e-04 1.45460768e-03
+  3.19873587e-04 1.49723082e-04 2.08469923e-03 1.53217644e-04
+  1.10388182e-04 1.09857122e-04 6.38546831e-04 3.04003451e-04
+  1.08802842e-04 1.03284798e-04 1.38935135e-04 6.11864025e-04
+  1.08548260e-04 1.52754360e-04 9.07994946e-04 7.22777752e-04
+  2.58212668e-04 6.44524499e-04 1.12282403e-04 1.58721947e-04
+  4.43212054e-04 5.32260501e-04 4.82722180e-04 3.19559771e-03
+  2.98741305e-04 5.15898167e-04 3.15675222e-04 4.23885016e-04
+  2.64878959e-04]]
+2018-08-12 16:48:52,283 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,283 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:48:52,283 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,299 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,299 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,299 main 159 [INFO][predict] proba: [[3.22531764e-04 9.88636290e-01 2.31478832e-04 1.90008206e-04
+  6.18875436e-04 2.55758900e-04 1.50440854e-04 6.11400023e-04
+  2.99176077e-04 1.39471608e-04 1.20167454e-03 1.44782914e-04
+  1.15963461e-04 1.03598000e-04 3.25595664e-04 2.03554063e-04
+  1.06437310e-04 1.08753222e-04 1.11815828e-04 4.75777205e-04
+  1.10953009e-04 1.46959371e-04 5.11842654e-04 4.15343920e-04
+  2.35972650e-04 3.34691224e-04 1.14546490e-04 1.49627946e-04
+  3.56114912e-04 5.01937333e-04 3.02908012e-04 1.39964495e-03
+  2.14732433e-04 3.06114447e-04 1.71233858e-04 1.82651233e-04
+  1.91341154e-04]]
+2018-08-12 16:48:52,299 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,299 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:48:52,299 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,337 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,337 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,340 main 159 [INFO][predict] proba: [[0.00482804 0.04215241 0.00144616 0.00664061 0.08616339 0.00239987
+  0.00671164 0.22489534 0.00801633 0.00184912 0.0145183  0.00133482
+  0.00205269 0.00170688 0.01016836 0.00566645 0.00093997 0.00101629
+  0.00267618 0.00667071 0.00072512 0.00189607 0.01455402 0.00551525
+  0.01080463 0.01419499 0.00092813 0.00147363 0.00673956 0.00563173
+  0.01149005 0.02988729 0.006401   0.40194232 0.02987371 0.02121653
+  0.00487239]]
+2018-08-12 16:48:52,340 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,340 main 42 [INFO][<module>] recognized: “ì
+2018-08-12 16:48:52,342 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,374 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,374 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,374 main 159 [INFO][predict] proba: [[0.0035914  0.040482   0.00191531 0.00638039 0.2036865  0.00253234
+  0.00511874 0.16656432 0.00964693 0.00172869 0.0142888  0.00136471
+  0.00186882 0.00156118 0.01161512 0.00467388 0.00101094 0.00108342
+  0.00209604 0.00850368 0.0007335  0.00173102 0.04008187 0.00575839
+  0.01011611 0.02230859 0.00092502 0.00165261 0.00728288 0.00660199
+  0.00572014 0.06028672 0.0033239  0.32422075 0.00763151 0.00658191
+  0.00532989]]
+2018-08-12 16:48:52,374 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,374 main 42 [INFO][<module>] recognized: “ì
+2018-08-12 16:48:52,374 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,400 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,400 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,404 main 159 [INFO][predict] proba: [[2.43187634e-03 6.63533735e-02 1.01466092e-03 3.17765647e-03
+  6.13067657e-02 6.55786868e-03 1.77989731e-03 4.10987827e-01
+  1.08397762e-02 6.00681745e-04 7.04486340e-03 6.95754305e-04
+  5.82994798e-04 4.75239372e-04 1.98727716e-03 8.77347354e-04
+  6.26116632e-04 6.32006402e-04 6.55963536e-04 3.44104994e-03
+  3.16682219e-04 8.56585733e-04 6.91557172e-03 4.78080160e-03
+  4.99521522e-03 8.74167970e-03 4.15522471e-04 7.15760382e-04
+  2.21913127e-03 4.51375717e-03 3.22314423e-03 3.38236821e-01
+  1.69383593e-03 3.15387443e-02 3.36020904e-03 3.13015562e-03
+  2.27738551e-03]]
+2018-08-12 16:48:52,405 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,405 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:48:52,405 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,416 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,416 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,432 main 159 [INFO][predict] proba: [[0.00581915 0.24383255 0.00441509 0.00651678 0.10511536 0.00267872
+  0.00509562 0.16282854 0.00695063 0.00284172 0.01664116 0.00135031
+  0.00213815 0.00162831 0.00497823 0.00202955 0.00128288 0.00122969
+  0.00247977 0.04048689 0.00073081 0.00225047 0.11253872 0.00797748
+  0.00968431 0.01388095 0.00109962 0.00269911 0.00536209 0.0061266
+  0.0122084  0.06714956 0.00516211 0.09972973 0.00786005 0.01015714
+  0.01504378]]
+2018-08-12 16:48:52,432 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,432 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:48:52,432 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,448 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,448 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,448 main 159 [INFO][predict] proba: [[0.00648908 0.06058322 0.00373252 0.00451162 0.05041423 0.00280486
+  0.00443186 0.0925718  0.00765809 0.00256467 0.00902884 0.001274
+  0.00177517 0.001489   0.00543964 0.00258184 0.0013429  0.00125572
+  0.0025284  0.12455051 0.00062282 0.00210987 0.18471351 0.00926452
+  0.01078186 0.02203038 0.00117743 0.00242531 0.00305964 0.00737102
+  0.00905039 0.28609765 0.00667966 0.02741248 0.00985069 0.02140528
+  0.00891952]]
+2018-08-12 16:48:52,448 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,448 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:48:52,448 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,566 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,566 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,566 main 159 [INFO][predict] proba: [[0.001985   0.00402142 0.00329078 0.00223283 0.00361509 0.12652151
+  0.00214262 0.00797236 0.46005578 0.00123879 0.0033252  0.00671536
+  0.00205632 0.00134554 0.00153262 0.00131668 0.26084302 0.04993468
+  0.00098026 0.00352406 0.00147127 0.00139499 0.00435753 0.00842738
+  0.00380664 0.00493358 0.00333143 0.00181167 0.00198842 0.00322785
+  0.00216259 0.00299325 0.00181203 0.0056459  0.00199203 0.00256911
+  0.00342439]]
+2018-08-12 16:48:52,566 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,566 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:48:52,566 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:48:52,707 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:48:52,707 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:48:52,707 main 159 [INFO][predict] proba: [[0.0086414  0.00724744 0.01576096 0.01006906 0.00952758 0.06952522
+  0.00940328 0.0189684  0.16048879 0.00753694 0.01058592 0.01310188
+  0.01313783 0.00944966 0.00459782 0.00520667 0.38917005 0.05611656
+  0.00527754 0.00905306 0.00595937 0.00744356 0.00913762 0.02219221
+  0.01659928 0.01481522 0.01781605 0.01045041 0.00716116 0.01246875
+  0.00426138 0.00437818 0.00633052 0.01140607 0.00352905 0.00595801
+  0.00722711]]
+2018-08-12 16:48:52,707 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:48:52,707 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:48:52,707 main 169 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:49:37,830 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:49:37,830 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:49:37,830 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:49:37,830 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:49:37,830 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:49:37,830 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:49:37,830 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:49:37,846 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:49:37,846 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:49:37,846 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:49:37,846 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:49:37,846 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:49:37,846 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:49:37,861 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:37,924 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:37,924 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:37,924 main 159 [INFO][predict] proba: [[0.0888527  0.0017056  0.0024929  0.03838587 0.00204616 0.00130699
+  0.03649436 0.00203396 0.00170274 0.02502014 0.00218361 0.00106367
+  0.01878526 0.0081311  0.00151167 0.00131898 0.00095795 0.00104952
+  0.00897624 0.00199783 0.00097939 0.3624789  0.00275226 0.00139009
+  0.35587991 0.002186   0.00112286 0.00696317 0.00215195 0.00158223
+  0.00249015 0.00150363 0.00293456 0.00298166 0.00258744 0.00170167
+  0.00229689]]
+2018-08-12 16:49:37,924 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:37,924 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:49:37,924 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:37,986 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:37,986 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:37,986 main 159 [INFO][predict] proba: [[2.84814329e-02 1.12606847e-03 1.28837818e-03 1.40826616e-02
+  1.13717058e-03 5.70853147e-04 4.63305493e-03 9.50446122e-04
+  7.55595973e-04 3.22043098e-02 9.28466887e-04 5.82253425e-04
+  2.48995990e-02 4.28901940e-03 7.72707103e-04 7.13120017e-04
+  4.53982088e-04 5.25449765e-04 5.40784456e-03 9.42336429e-04
+  4.89220807e-04 8.33593525e-01 2.06384292e-03 9.01616810e-04
+  1.97097196e-02 1.05665682e-03 6.57227226e-04 3.29646936e-03
+  1.12331089e-03 9.11536998e-04 2.43953062e-03 1.06367240e-03
+  2.26683771e-03 2.12098024e-03 9.79843402e-04 1.06193207e-03
+  1.51932708e-03]]
+2018-08-12 16:49:37,986 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:37,986 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:49:37,986 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,049 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,049 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,049 main 159 [INFO][predict] proba: [[0.058431   0.00308745 0.00740418 0.05600449 0.00384444 0.00201449
+  0.05001231 0.00358133 0.00268275 0.22554375 0.00462418 0.00200183
+  0.06280772 0.05634441 0.00262643 0.00262897 0.00205884 0.00241819
+  0.00969574 0.00761114 0.00179792 0.04454377 0.00429209 0.00302735
+  0.17702432 0.00443241 0.00250076 0.1483263  0.00360466 0.0029373
+  0.0066734  0.00306558 0.00464629 0.00785116 0.00655517 0.00487956
+  0.00841832]]
+2018-08-12 16:49:38,049 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,049 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:49:38,049 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,111 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,111 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,127 main 159 [INFO][predict] proba: [[1.51610224e-02 3.66349620e-04 8.38070276e-04 1.97392774e-03
+  3.28149183e-04 2.00989821e-04 1.58289976e-03 3.11258817e-04
+  2.21740487e-04 9.64801858e-02 3.22252759e-04 1.86356187e-04
+  9.99312122e-03 4.42491863e-03 2.76574529e-04 2.38511441e-04
+  1.83413156e-04 1.92757976e-04 3.05464915e-03 6.07758270e-04
+  1.83488462e-04 3.26567408e-02 3.90629126e-04 2.94483543e-04
+  6.84208199e-02 3.07232921e-04 2.02185537e-04 7.54597881e-01
+  2.52241402e-04 2.93455409e-04 6.16140572e-04 3.25743237e-04
+  5.90548473e-04 7.15026409e-04 6.88199783e-04 5.45233191e-04
+  1.97504313e-03]]
+2018-08-12 16:49:38,127 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,127 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:49:38,127 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,143 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,143 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,143 main 159 [INFO][predict] proba: [[3.01392703e-04 9.81374210e-01 3.17896859e-04 1.97894077e-04
+  1.51527174e-03 2.99794753e-04 1.67047843e-04 1.45460768e-03
+  3.19873587e-04 1.49723082e-04 2.08469923e-03 1.53217644e-04
+  1.10388182e-04 1.09857122e-04 6.38546831e-04 3.04003451e-04
+  1.08802842e-04 1.03284798e-04 1.38935135e-04 6.11864025e-04
+  1.08548260e-04 1.52754360e-04 9.07994946e-04 7.22777752e-04
+  2.58212668e-04 6.44524499e-04 1.12282403e-04 1.58721947e-04
+  4.43212054e-04 5.32260501e-04 4.82722180e-04 3.19559771e-03
+  2.98741305e-04 5.15898167e-04 3.15675222e-04 4.23885016e-04
+  2.64878959e-04]]
+2018-08-12 16:49:38,143 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,143 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:49:38,143 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,174 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,174 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,174 main 159 [INFO][predict] proba: [[3.22531764e-04 9.88636290e-01 2.31478832e-04 1.90008206e-04
+  6.18875436e-04 2.55758900e-04 1.50440854e-04 6.11400023e-04
+  2.99176077e-04 1.39471608e-04 1.20167454e-03 1.44782914e-04
+  1.15963461e-04 1.03598000e-04 3.25595664e-04 2.03554063e-04
+  1.06437310e-04 1.08753222e-04 1.11815828e-04 4.75777205e-04
+  1.10953009e-04 1.46959371e-04 5.11842654e-04 4.15343920e-04
+  2.35972650e-04 3.34691224e-04 1.14546490e-04 1.49627946e-04
+  3.56114912e-04 5.01937333e-04 3.02908012e-04 1.39964495e-03
+  2.14732433e-04 3.06114447e-04 1.71233858e-04 1.82651233e-04
+  1.91341154e-04]]
+2018-08-12 16:49:38,174 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,174 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:49:38,174 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,221 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,221 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,221 main 159 [INFO][predict] proba: [[0.00482804 0.04215241 0.00144616 0.00664061 0.08616339 0.00239987
+  0.00671164 0.22489534 0.00801633 0.00184912 0.0145183  0.00133482
+  0.00205269 0.00170688 0.01016836 0.00566645 0.00093997 0.00101629
+  0.00267618 0.00667071 0.00072512 0.00189607 0.01455402 0.00551525
+  0.01080463 0.01419499 0.00092813 0.00147363 0.00673956 0.00563173
+  0.01149005 0.02988729 0.006401   0.40194232 0.02987371 0.02121653
+  0.00487239]]
+2018-08-12 16:49:38,221 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,221 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:49:38,221 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,252 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,252 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,252 main 159 [INFO][predict] proba: [[0.0035914  0.040482   0.00191531 0.00638039 0.2036865  0.00253234
+  0.00511874 0.16656432 0.00964693 0.00172869 0.0142888  0.00136471
+  0.00186882 0.00156118 0.01161512 0.00467388 0.00101094 0.00108342
+  0.00209604 0.00850368 0.0007335  0.00173102 0.04008187 0.00575839
+  0.01011611 0.02230859 0.00092502 0.00165261 0.00728288 0.00660199
+  0.00572014 0.06028672 0.0033239  0.32422075 0.00763151 0.00658191
+  0.00532989]]
+2018-08-12 16:49:38,252 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,252 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:49:38,252 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,268 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,268 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,268 main 159 [INFO][predict] proba: [[2.43187634e-03 6.63533735e-02 1.01466092e-03 3.17765647e-03
+  6.13067657e-02 6.55786868e-03 1.77989731e-03 4.10987827e-01
+  1.08397762e-02 6.00681745e-04 7.04486340e-03 6.95754305e-04
+  5.82994798e-04 4.75239372e-04 1.98727716e-03 8.77347354e-04
+  6.26116632e-04 6.32006402e-04 6.55963536e-04 3.44104994e-03
+  3.16682219e-04 8.56585733e-04 6.91557172e-03 4.78080160e-03
+  4.99521522e-03 8.74167970e-03 4.15522471e-04 7.15760382e-04
+  2.21913127e-03 4.51375717e-03 3.22314423e-03 3.38236821e-01
+  1.69383593e-03 3.15387443e-02 3.36020904e-03 3.13015562e-03
+  2.27738551e-03]]
+2018-08-12 16:49:38,268 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,268 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:49:38,268 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,283 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,283 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,283 main 159 [INFO][predict] proba: [[0.00581915 0.24383255 0.00441509 0.00651678 0.10511536 0.00267872
+  0.00509562 0.16282854 0.00695063 0.00284172 0.01664116 0.00135031
+  0.00213815 0.00162831 0.00497823 0.00202955 0.00128288 0.00122969
+  0.00247977 0.04048689 0.00073081 0.00225047 0.11253872 0.00797748
+  0.00968431 0.01388095 0.00109962 0.00269911 0.00536209 0.0061266
+  0.0122084  0.06714956 0.00516211 0.09972973 0.00786005 0.01015714
+  0.01504378]]
+2018-08-12 16:49:38,283 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,283 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:49:38,283 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,315 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,315 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,321 main 159 [INFO][predict] proba: [[0.00648908 0.06058322 0.00373252 0.00451162 0.05041423 0.00280486
+  0.00443186 0.0925718  0.00765809 0.00256467 0.00902884 0.001274
+  0.00177517 0.001489   0.00543964 0.00258184 0.0013429  0.00125572
+  0.0025284  0.12455051 0.00062282 0.00210987 0.18471351 0.00926452
+  0.01078186 0.02203038 0.00117743 0.00242531 0.00305964 0.00737102
+  0.00905039 0.28609765 0.00667966 0.02741248 0.00985069 0.02140528
+  0.00891952]]
+2018-08-12 16:49:38,321 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,321 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:49:38,321 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,420 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,420 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,420 main 159 [INFO][predict] proba: [[0.001985   0.00402142 0.00329078 0.00223283 0.00361509 0.12652151
+  0.00214262 0.00797236 0.46005578 0.00123879 0.0033252  0.00671536
+  0.00205632 0.00134554 0.00153262 0.00131668 0.26084302 0.04993468
+  0.00098026 0.00352406 0.00147127 0.00139499 0.00435753 0.00842738
+  0.00380664 0.00493358 0.00333143 0.00181167 0.00198842 0.00322785
+  0.00216259 0.00299325 0.00181203 0.0056459  0.00199203 0.00256911
+  0.00342439]]
+2018-08-12 16:49:38,420 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,420 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:49:38,420 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:49:38,545 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:49:38,545 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:49:38,545 main 159 [INFO][predict] proba: [[0.0086414  0.00724744 0.01576096 0.01006906 0.00952758 0.06952522
+  0.00940328 0.0189684  0.16048879 0.00753694 0.01058592 0.01310188
+  0.01313783 0.00944966 0.00459782 0.00520667 0.38917005 0.05611656
+  0.00527754 0.00905306 0.00595937 0.00744356 0.00913762 0.02219221
+  0.01659928 0.01481522 0.01781605 0.01045041 0.00716116 0.01246875
+  0.00426138 0.00437818 0.00633052 0.01140607 0.00352905 0.00595801
+  0.00722711]]
+2018-08-12 16:49:38,545 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:49:38,545 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:49:38,545 main 169 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:54:28,206 main 190 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:54:28,206 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:54:48,080 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:54:48,080 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:54:48,080 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:54:48,080 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:54:48,080 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:54:48,080 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:54:48,080 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:54:48,096 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:54:48,096 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:54:48,096 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:54:48,096 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:54:48,096 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:54:48,096 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:54:48,096 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,174 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,174 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,174 main 159 [INFO][predict] proba: [[0.0888527  0.0017056  0.0024929  0.03838587 0.00204616 0.00130699
+  0.03649436 0.00203396 0.00170274 0.02502014 0.00218361 0.00106367
+  0.01878526 0.0081311  0.00151167 0.00131898 0.00095795 0.00104952
+  0.00897624 0.00199783 0.00097939 0.3624789  0.00275226 0.00139009
+  0.35587991 0.002186   0.00112286 0.00696317 0.00215195 0.00158223
+  0.00249015 0.00150363 0.00293456 0.00298166 0.00258744 0.00170167
+  0.00229689]]
+2018-08-12 16:54:48,174 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,174 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:54:48,174 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,236 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,236 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,236 main 159 [INFO][predict] proba: [[2.84814329e-02 1.12606847e-03 1.28837818e-03 1.40826616e-02
+  1.13717058e-03 5.70853147e-04 4.63305493e-03 9.50446122e-04
+  7.55595973e-04 3.22043098e-02 9.28466887e-04 5.82253425e-04
+  2.48995990e-02 4.28901940e-03 7.72707103e-04 7.13120017e-04
+  4.53982088e-04 5.25449765e-04 5.40784456e-03 9.42336429e-04
+  4.89220807e-04 8.33593525e-01 2.06384292e-03 9.01616810e-04
+  1.97097196e-02 1.05665682e-03 6.57227226e-04 3.29646936e-03
+  1.12331089e-03 9.11536998e-04 2.43953062e-03 1.06367240e-03
+  2.26683771e-03 2.12098024e-03 9.79843402e-04 1.06193207e-03
+  1.51932708e-03]]
+2018-08-12 16:54:48,236 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,236 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:54:48,236 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,318 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,319 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,324 main 159 [INFO][predict] proba: [[0.058431   0.00308745 0.00740418 0.05600449 0.00384444 0.00201449
+  0.05001231 0.00358133 0.00268275 0.22554375 0.00462418 0.00200183
+  0.06280772 0.05634441 0.00262643 0.00262897 0.00205884 0.00241819
+  0.00969574 0.00761114 0.00179792 0.04454377 0.00429209 0.00302735
+  0.17702432 0.00443241 0.00250076 0.1483263  0.00360466 0.0029373
+  0.0066734  0.00306558 0.00464629 0.00785116 0.00655517 0.00487956
+  0.00841832]]
+2018-08-12 16:54:48,324 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,325 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:54:48,325 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,411 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,412 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,416 main 159 [INFO][predict] proba: [[1.51610224e-02 3.66349620e-04 8.38070276e-04 1.97392774e-03
+  3.28149183e-04 2.00989821e-04 1.58289976e-03 3.11258817e-04
+  2.21740487e-04 9.64801858e-02 3.22252759e-04 1.86356187e-04
+  9.99312122e-03 4.42491863e-03 2.76574529e-04 2.38511441e-04
+  1.83413156e-04 1.92757976e-04 3.05464915e-03 6.07758270e-04
+  1.83488462e-04 3.26567408e-02 3.90629126e-04 2.94483543e-04
+  6.84208199e-02 3.07232921e-04 2.02185537e-04 7.54597881e-01
+  2.52241402e-04 2.93455409e-04 6.16140572e-04 3.25743237e-04
+  5.90548473e-04 7.15026409e-04 6.88199783e-04 5.45233191e-04
+  1.97504313e-03]]
+2018-08-12 16:54:48,416 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,416 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:54:48,416 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,442 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,442 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,442 main 159 [INFO][predict] proba: [[3.01392703e-04 9.81374210e-01 3.17896859e-04 1.97894077e-04
+  1.51527174e-03 2.99794753e-04 1.67047843e-04 1.45460768e-03
+  3.19873587e-04 1.49723082e-04 2.08469923e-03 1.53217644e-04
+  1.10388182e-04 1.09857122e-04 6.38546831e-04 3.04003451e-04
+  1.08802842e-04 1.03284798e-04 1.38935135e-04 6.11864025e-04
+  1.08548260e-04 1.52754360e-04 9.07994946e-04 7.22777752e-04
+  2.58212668e-04 6.44524499e-04 1.12282403e-04 1.58721947e-04
+  4.43212054e-04 5.32260501e-04 4.82722180e-04 3.19559771e-03
+  2.98741305e-04 5.15898167e-04 3.15675222e-04 4.23885016e-04
+  2.64878959e-04]]
+2018-08-12 16:54:48,442 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,442 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:54:48,442 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,473 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,473 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,473 main 159 [INFO][predict] proba: [[3.22531764e-04 9.88636290e-01 2.31478832e-04 1.90008206e-04
+  6.18875436e-04 2.55758900e-04 1.50440854e-04 6.11400023e-04
+  2.99176077e-04 1.39471608e-04 1.20167454e-03 1.44782914e-04
+  1.15963461e-04 1.03598000e-04 3.25595664e-04 2.03554063e-04
+  1.06437310e-04 1.08753222e-04 1.11815828e-04 4.75777205e-04
+  1.10953009e-04 1.46959371e-04 5.11842654e-04 4.15343920e-04
+  2.35972650e-04 3.34691224e-04 1.14546490e-04 1.49627946e-04
+  3.56114912e-04 5.01937333e-04 3.02908012e-04 1.39964495e-03
+  2.14732433e-04 3.06114447e-04 1.71233858e-04 1.82651233e-04
+  1.91341154e-04]]
+2018-08-12 16:54:48,473 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,473 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:54:48,473 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,515 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,515 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,515 main 159 [INFO][predict] proba: [[0.00482804 0.04215241 0.00144616 0.00664061 0.08616339 0.00239987
+  0.00671164 0.22489534 0.00801633 0.00184912 0.0145183  0.00133482
+  0.00205269 0.00170688 0.01016836 0.00566645 0.00093997 0.00101629
+  0.00267618 0.00667071 0.00072512 0.00189607 0.01455402 0.00551525
+  0.01080463 0.01419499 0.00092813 0.00147363 0.00673956 0.00563173
+  0.01149005 0.02988729 0.006401   0.40194232 0.02987371 0.02121653
+  0.00487239]]
+2018-08-12 16:54:48,515 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,515 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:54:48,515 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,546 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,546 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,546 main 159 [INFO][predict] proba: [[0.0035914  0.040482   0.00191531 0.00638039 0.2036865  0.00253234
+  0.00511874 0.16656432 0.00964693 0.00172869 0.0142888  0.00136471
+  0.00186882 0.00156118 0.01161512 0.00467388 0.00101094 0.00108342
+  0.00209604 0.00850368 0.0007335  0.00173102 0.04008187 0.00575839
+  0.01011611 0.02230859 0.00092502 0.00165261 0.00728288 0.00660199
+  0.00572014 0.06028672 0.0033239  0.32422075 0.00763151 0.00658191
+  0.00532989]]
+2018-08-12 16:54:48,546 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,546 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:54:48,546 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,562 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,562 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,562 main 159 [INFO][predict] proba: [[2.43187634e-03 6.63533735e-02 1.01466092e-03 3.17765647e-03
+  6.13067657e-02 6.55786868e-03 1.77989731e-03 4.10987827e-01
+  1.08397762e-02 6.00681745e-04 7.04486340e-03 6.95754305e-04
+  5.82994798e-04 4.75239372e-04 1.98727716e-03 8.77347354e-04
+  6.26116632e-04 6.32006402e-04 6.55963536e-04 3.44104994e-03
+  3.16682219e-04 8.56585733e-04 6.91557172e-03 4.78080160e-03
+  4.99521522e-03 8.74167970e-03 4.15522471e-04 7.15760382e-04
+  2.21913127e-03 4.51375717e-03 3.22314423e-03 3.38236821e-01
+  1.69383593e-03 3.15387443e-02 3.36020904e-03 3.13015562e-03
+  2.27738551e-03]]
+2018-08-12 16:54:48,562 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,562 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:54:48,562 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,577 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,577 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,593 main 159 [INFO][predict] proba: [[0.00581915 0.24383255 0.00441509 0.00651678 0.10511536 0.00267872
+  0.00509562 0.16282854 0.00695063 0.00284172 0.01664116 0.00135031
+  0.00213815 0.00162831 0.00497823 0.00202955 0.00128288 0.00122969
+  0.00247977 0.04048689 0.00073081 0.00225047 0.11253872 0.00797748
+  0.00968431 0.01388095 0.00109962 0.00269911 0.00536209 0.0061266
+  0.0122084  0.06714956 0.00516211 0.09972973 0.00786005 0.01015714
+  0.01504378]]
+2018-08-12 16:54:48,593 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,593 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:54:48,593 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,609 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,609 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,609 main 159 [INFO][predict] proba: [[0.00648908 0.06058322 0.00373252 0.00451162 0.05041423 0.00280486
+  0.00443186 0.0925718  0.00765809 0.00256467 0.00902884 0.001274
+  0.00177517 0.001489   0.00543964 0.00258184 0.0013429  0.00125572
+  0.0025284  0.12455051 0.00062282 0.00210987 0.18471351 0.00926452
+  0.01078186 0.02203038 0.00117743 0.00242531 0.00305964 0.00737102
+  0.00905039 0.28609765 0.00667966 0.02741248 0.00985069 0.02140528
+  0.00891952]]
+2018-08-12 16:54:48,609 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,609 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:54:48,609 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,702 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,702 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,702 main 159 [INFO][predict] proba: [[0.001985   0.00402142 0.00329078 0.00223283 0.00361509 0.12652151
+  0.00214262 0.00797236 0.46005578 0.00123879 0.0033252  0.00671536
+  0.00205632 0.00134554 0.00153262 0.00131668 0.26084302 0.04993468
+  0.00098026 0.00352406 0.00147127 0.00139499 0.00435753 0.00842738
+  0.00380664 0.00493358 0.00333143 0.00181167 0.00198842 0.00322785
+  0.00216259 0.00299325 0.00181203 0.0056459  0.00199203 0.00256911
+  0.00342439]]
+2018-08-12 16:54:48,702 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,702 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:54:48,702 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:54:48,843 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:54:48,843 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:54:48,843 main 159 [INFO][predict] proba: [[0.0086414  0.00724744 0.01576096 0.01006906 0.00952758 0.06952522
+  0.00940328 0.0189684  0.16048879 0.00753694 0.01058592 0.01310188
+  0.01313783 0.00944966 0.00459782 0.00520667 0.38917005 0.05611656
+  0.00527754 0.00905306 0.00595937 0.00744356 0.00913762 0.02219221
+  0.01659928 0.01481522 0.01781605 0.01045041 0.00716116 0.01246875
+  0.00426138 0.00437818 0.00633052 0.01140607 0.00352905 0.00595801
+  0.00722711]]
+2018-08-12 16:54:48,843 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:54:48,843 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:54:48,843 main 169 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:54:57,751 main 190 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:54:57,751 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:55:23,334 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:55:23,334 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:55:23,335 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:55:23,347 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:55:23,347 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:55:23,347 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:55:23,348 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:55:23,362 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:55:23,362 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:55:23,362 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:55:23,363 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:55:23,366 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:55:23,366 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:55:23,366 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,441 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,441 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,444 main 159 [INFO][predict] proba: [[0.0888527  0.0017056  0.0024929  0.03838587 0.00204616 0.00130699
+  0.03649436 0.00203396 0.00170274 0.02502014 0.00218361 0.00106367
+  0.01878526 0.0081311  0.00151167 0.00131898 0.00095795 0.00104952
+  0.00897624 0.00199783 0.00097939 0.3624789  0.00275226 0.00139009
+  0.35587991 0.002186   0.00112286 0.00696317 0.00215195 0.00158223
+  0.00249015 0.00150363 0.00293456 0.00298166 0.00258744 0.00170167
+  0.00229689]]
+2018-08-12 16:55:23,445 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,445 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:55:23,445 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,511 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,511 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,514 main 159 [INFO][predict] proba: [[2.84814329e-02 1.12606847e-03 1.28837818e-03 1.40826616e-02
+  1.13717058e-03 5.70853147e-04 4.63305493e-03 9.50446122e-04
+  7.55595973e-04 3.22043098e-02 9.28466887e-04 5.82253425e-04
+  2.48995990e-02 4.28901940e-03 7.72707103e-04 7.13120017e-04
+  4.53982088e-04 5.25449765e-04 5.40784456e-03 9.42336429e-04
+  4.89220807e-04 8.33593525e-01 2.06384292e-03 9.01616810e-04
+  1.97097196e-02 1.05665682e-03 6.57227226e-04 3.29646936e-03
+  1.12331089e-03 9.11536998e-04 2.43953062e-03 1.06367240e-03
+  2.26683771e-03 2.12098024e-03 9.79843402e-04 1.06193207e-03
+  1.51932708e-03]]
+2018-08-12 16:55:23,514 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,514 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:55:23,515 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,577 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,578 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,581 main 159 [INFO][predict] proba: [[0.058431   0.00308745 0.00740418 0.05600449 0.00384444 0.00201449
+  0.05001231 0.00358133 0.00268275 0.22554375 0.00462418 0.00200183
+  0.06280772 0.05634441 0.00262643 0.00262897 0.00205884 0.00241819
+  0.00969574 0.00761114 0.00179792 0.04454377 0.00429209 0.00302735
+  0.17702432 0.00443241 0.00250076 0.1483263  0.00360466 0.0029373
+  0.0066734  0.00306558 0.00464629 0.00785116 0.00655517 0.00487956
+  0.00841832]]
+2018-08-12 16:55:23,581 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,581 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:55:23,581 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,659 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,660 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,664 main 159 [INFO][predict] proba: [[1.51610224e-02 3.66349620e-04 8.38070276e-04 1.97392774e-03
+  3.28149183e-04 2.00989821e-04 1.58289976e-03 3.11258817e-04
+  2.21740487e-04 9.64801858e-02 3.22252759e-04 1.86356187e-04
+  9.99312122e-03 4.42491863e-03 2.76574529e-04 2.38511441e-04
+  1.83413156e-04 1.92757976e-04 3.05464915e-03 6.07758270e-04
+  1.83488462e-04 3.26567408e-02 3.90629126e-04 2.94483543e-04
+  6.84208199e-02 3.07232921e-04 2.02185537e-04 7.54597881e-01
+  2.52241402e-04 2.93455409e-04 6.16140572e-04 3.25743237e-04
+  5.90548473e-04 7.15026409e-04 6.88199783e-04 5.45233191e-04
+  1.97504313e-03]]
+2018-08-12 16:55:23,664 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,664 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:55:23,664 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,685 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,686 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,689 main 159 [INFO][predict] proba: [[3.01392703e-04 9.81374210e-01 3.17896859e-04 1.97894077e-04
+  1.51527174e-03 2.99794753e-04 1.67047843e-04 1.45460768e-03
+  3.19873587e-04 1.49723082e-04 2.08469923e-03 1.53217644e-04
+  1.10388182e-04 1.09857122e-04 6.38546831e-04 3.04003451e-04
+  1.08802842e-04 1.03284798e-04 1.38935135e-04 6.11864025e-04
+  1.08548260e-04 1.52754360e-04 9.07994946e-04 7.22777752e-04
+  2.58212668e-04 6.44524499e-04 1.12282403e-04 1.58721947e-04
+  4.43212054e-04 5.32260501e-04 4.82722180e-04 3.19559771e-03
+  2.98741305e-04 5.15898167e-04 3.15675222e-04 4.23885016e-04
+  2.64878959e-04]]
+2018-08-12 16:55:23,689 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,690 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:55:23,690 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,712 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,712 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,715 main 159 [INFO][predict] proba: [[3.22531764e-04 9.88636290e-01 2.31478832e-04 1.90008206e-04
+  6.18875436e-04 2.55758900e-04 1.50440854e-04 6.11400023e-04
+  2.99176077e-04 1.39471608e-04 1.20167454e-03 1.44782914e-04
+  1.15963461e-04 1.03598000e-04 3.25595664e-04 2.03554063e-04
+  1.06437310e-04 1.08753222e-04 1.11815828e-04 4.75777205e-04
+  1.10953009e-04 1.46959371e-04 5.11842654e-04 4.15343920e-04
+  2.35972650e-04 3.34691224e-04 1.14546490e-04 1.49627946e-04
+  3.56114912e-04 5.01937333e-04 3.02908012e-04 1.39964495e-03
+  2.14732433e-04 3.06114447e-04 1.71233858e-04 1.82651233e-04
+  1.91341154e-04]]
+2018-08-12 16:55:23,715 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,716 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:55:23,716 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,745 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,745 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,750 main 159 [INFO][predict] proba: [[0.00482804 0.04215241 0.00144616 0.00664061 0.08616339 0.00239987
+  0.00671164 0.22489534 0.00801633 0.00184912 0.0145183  0.00133482
+  0.00205269 0.00170688 0.01016836 0.00566645 0.00093997 0.00101629
+  0.00267618 0.00667071 0.00072512 0.00189607 0.01455402 0.00551525
+  0.01080463 0.01419499 0.00092813 0.00147363 0.00673956 0.00563173
+  0.01149005 0.02988729 0.006401   0.40194232 0.02987371 0.02121653
+  0.00487239]]
+2018-08-12 16:55:23,750 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,750 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:55:23,750 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,784 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,785 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,788 main 159 [INFO][predict] proba: [[0.0035914  0.040482   0.00191531 0.00638039 0.2036865  0.00253234
+  0.00511874 0.16656432 0.00964693 0.00172869 0.0142888  0.00136471
+  0.00186882 0.00156118 0.01161512 0.00467388 0.00101094 0.00108342
+  0.00209604 0.00850368 0.0007335  0.00173102 0.04008187 0.00575839
+  0.01011611 0.02230859 0.00092502 0.00165261 0.00728288 0.00660199
+  0.00572014 0.06028672 0.0033239  0.32422075 0.00763151 0.00658191
+  0.00532989]]
+2018-08-12 16:55:23,788 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,789 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:55:23,789 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,808 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,809 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,814 main 159 [INFO][predict] proba: [[2.43187634e-03 6.63533735e-02 1.01466092e-03 3.17765647e-03
+  6.13067657e-02 6.55786868e-03 1.77989731e-03 4.10987827e-01
+  1.08397762e-02 6.00681745e-04 7.04486340e-03 6.95754305e-04
+  5.82994798e-04 4.75239372e-04 1.98727716e-03 8.77347354e-04
+  6.26116632e-04 6.32006402e-04 6.55963536e-04 3.44104994e-03
+  3.16682219e-04 8.56585733e-04 6.91557172e-03 4.78080160e-03
+  4.99521522e-03 8.74167970e-03 4.15522471e-04 7.15760382e-04
+  2.21913127e-03 4.51375717e-03 3.22314423e-03 3.38236821e-01
+  1.69383593e-03 3.15387443e-02 3.36020904e-03 3.13015562e-03
+  2.27738551e-03]]
+2018-08-12 16:55:23,814 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,814 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:55:23,814 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,854 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,854 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,861 main 159 [INFO][predict] proba: [[0.00581915 0.24383255 0.00441509 0.00651678 0.10511536 0.00267872
+  0.00509562 0.16282854 0.00695063 0.00284172 0.01664116 0.00135031
+  0.00213815 0.00162831 0.00497823 0.00202955 0.00128288 0.00122969
+  0.00247977 0.04048689 0.00073081 0.00225047 0.11253872 0.00797748
+  0.00968431 0.01388095 0.00109962 0.00269911 0.00536209 0.0061266
+  0.0122084  0.06714956 0.00516211 0.09972973 0.00786005 0.01015714
+  0.01504378]]
+2018-08-12 16:55:23,861 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,861 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:55:23,861 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:23,895 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:23,895 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:23,899 main 159 [INFO][predict] proba: [[0.00648908 0.06058322 0.00373252 0.00451162 0.05041423 0.00280486
+  0.00443186 0.0925718  0.00765809 0.00256467 0.00902884 0.001274
+  0.00177517 0.001489   0.00543964 0.00258184 0.0013429  0.00125572
+  0.0025284  0.12455051 0.00062282 0.00210987 0.18471351 0.00926452
+  0.01078186 0.02203038 0.00117743 0.00242531 0.00305964 0.00737102
+  0.00905039 0.28609765 0.00667966 0.02741248 0.00985069 0.02140528
+  0.00891952]]
+2018-08-12 16:55:23,899 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:23,899 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:55:23,899 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:24,011 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:24,011 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:24,015 main 159 [INFO][predict] proba: [[0.001985   0.00402142 0.00329078 0.00223283 0.00361509 0.12652151
+  0.00214262 0.00797236 0.46005578 0.00123879 0.0033252  0.00671536
+  0.00205632 0.00134554 0.00153262 0.00131668 0.26084302 0.04993468
+  0.00098026 0.00352406 0.00147127 0.00139499 0.00435753 0.00842738
+  0.00380664 0.00493358 0.00333143 0.00181167 0.00198842 0.00322785
+  0.00216259 0.00299325 0.00181203 0.0056459  0.00199203 0.00256911
+  0.00342439]]
+2018-08-12 16:55:24,015 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:24,015 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:55:24,015 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:24,154 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:24,155 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:24,158 main 159 [INFO][predict] proba: [[0.0086414  0.00724744 0.01576096 0.01006906 0.00952758 0.06952522
+  0.00940328 0.0189684  0.16048879 0.00753694 0.01058592 0.01310188
+  0.01313783 0.00944966 0.00459782 0.00520667 0.38917005 0.05611656
+  0.00527754 0.00905306 0.00595937 0.00744356 0.00913762 0.02219221
+  0.01659928 0.01481522 0.01781605 0.01045041 0.00716116 0.01246875
+  0.00426138 0.00437818 0.00633052 0.01140607 0.00352905 0.00595801
+  0.00722711]]
+2018-08-12 16:55:24,158 main 164 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:24,158 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:55:24,159 main 169 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:55:33,893 main 190 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:55:33,893 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:55:58,263 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:55:58,263 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:55:58,263 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:55:58,263 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:55:58,263 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:55:58,263 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:55:58,263 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:55:58,279 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:55:58,279 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:55:58,279 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:55:58,279 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:55:58,294 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:55:58,294 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:55:58,294 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,355 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,355 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,355 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,355 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:55:58,355 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,413 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,413 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,413 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,413 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:55:58,413 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,475 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,475 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,475 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,475 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:55:58,475 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,553 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,553 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,553 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,553 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:55:58,553 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,569 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,569 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,569 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,569 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:55:58,569 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,600 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,600 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,600 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,600 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:55:58,600 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,647 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,647 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,647 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,647 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:55:58,647 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,678 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,678 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,678 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,678 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:55:58,678 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,694 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,694 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,694 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,694 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:55:58,694 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,709 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,709 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,709 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,709 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:55:58,709 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,725 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,725 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,725 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,725 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:55:58,725 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,835 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,835 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,835 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,835 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:55:58,835 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:55:58,959 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:55:58,959 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:55:58,959 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:55:58,959 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:55:58,959 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:56:11,005 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:56:11,005 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:56:39,200 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:56:39,200 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:56:39,200 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:56:39,200 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:56:39,200 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:56:39,200 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:56:39,200 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:56:39,215 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:56:39,215 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:56:39,215 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:56:39,215 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:56:39,215 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:56:39,215 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:56:39,215 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,293 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,293 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,293 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,293 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:56:39,293 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,355 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,355 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,355 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,355 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:56:39,355 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,424 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,424 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,426 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,426 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:56:39,426 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,491 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,491 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,491 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,491 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:56:39,491 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,507 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,507 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,507 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,507 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:56:39,507 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,522 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,538 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,538 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,538 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:56:39,538 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,569 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,569 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,569 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,569 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:56:39,569 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,600 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,600 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,600 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,600 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:56:39,600 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,616 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,616 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,616 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,616 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:56:39,616 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,632 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,632 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,632 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,632 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:56:39,632 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,663 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,663 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,663 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,663 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:56:39,663 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,757 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,757 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,757 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,757 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:56:39,757 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:56:39,882 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:56:39,882 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:56:39,882 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:56:39,882 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:56:39,882 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:56:51,687 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:56:51,687 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:57:03,533 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:57:03,533 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:57:03,533 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:57:03,533 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:57:03,533 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:57:03,533 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:57:03,533 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:57:03,548 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:57:03,548 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:57:03,548 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:57:03,548 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:57:03,564 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:57:03,564 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:57:03,564 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,625 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,625 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,625 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,625 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:57:03,625 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,688 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,688 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,688 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,688 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:57:03,688 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,750 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,750 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,750 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,750 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:57:03,750 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,813 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,813 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,813 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,813 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:57:03,813 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,831 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,831 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,831 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,847 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:57:03,847 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,862 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,862 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,862 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,862 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:57:03,862 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,893 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,893 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,893 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,893 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:57:03,893 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,925 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,925 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,925 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,925 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:57:03,925 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,940 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,940 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,940 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,940 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:57:03,940 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,956 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,956 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,956 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,956 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:57:03,956 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:03,972 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:03,972 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:03,972 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:03,972 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:57:03,972 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:04,081 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:04,081 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:04,081 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:04,081 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:57:04,081 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:57:04,206 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:57:04,206 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:57:04,206 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:57:04,206 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:57:04,206 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:57:28,393 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:57:28,394 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:58:10,757 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:58:10,757 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:58:10,757 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:58:10,757 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:58:10,757 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:58:10,757 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:58:10,757 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:58:10,772 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:58:10,772 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:58:10,772 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:58:10,772 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:58:10,772 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:58:10,772 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:58:10,772 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:10,850 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:10,850 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:10,850 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:10,850 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:58:10,850 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:10,913 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:10,913 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:10,913 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:10,913 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:58:10,913 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:10,975 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:10,975 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:10,975 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:10,975 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:58:10,975 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,058 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,058 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,058 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,058 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:58:11,058 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,089 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,089 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,089 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,089 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:11,089 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,105 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,105 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,105 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,105 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:11,105 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,136 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,136 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,151 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,151 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:58:11,151 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,167 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,167 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,167 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,167 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:58:11,167 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,183 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,183 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,183 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,183 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:58:11,183 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,214 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,214 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,214 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,214 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:11,214 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,230 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,230 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,230 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,230 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:58:11,230 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,341 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,341 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,341 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,341 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:58:11,341 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:11,471 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:11,471 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:11,471 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:11,471 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:58:11,471 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:58:13,986 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:58:13,986 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:58:30,760 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:58:30,760 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:58:30,760 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:58:30,776 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:58:30,776 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:58:30,776 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:58:30,776 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:58:30,791 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:58:30,791 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:58:30,791 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:58:30,791 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:58:30,791 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:58:30,791 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:58:30,791 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:30,854 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:30,854 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:30,854 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:30,854 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:58:30,854 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:30,916 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:30,916 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:30,916 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:30,916 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:58:30,916 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:30,979 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:30,979 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:30,979 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:30,979 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:58:30,979 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,057 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,057 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,057 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,057 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:58:31,057 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,072 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,072 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,088 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,088 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:31,088 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,104 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,104 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,104 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,104 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:31,104 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,135 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,135 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,135 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,135 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:58:31,135 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,166 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,166 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,166 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,166 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:58:31,166 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,182 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,182 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,182 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,182 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:58:31,182 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,197 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,197 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,197 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,197 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:31,197 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,213 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,213 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,213 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,213 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:58:31,213 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,325 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,325 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,325 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,325 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:58:31,325 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:31,441 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:31,457 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:31,457 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:31,457 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:58:31,457 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 16:58:40,511 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 16:58:40,511 main 45 [INFO][<module>] --- end ---
+2018-08-12 16:58:56,702 main 18 [INFO][<module>] --- start ---
+2018-08-12 16:58:56,702 main 94 [INFO][__init__] --- enter[Tenfo.__init__] ---
+2018-08-12 16:58:56,702 main 97 [INFO][__init__] load SVM model
+2018-08-12 16:58:56,718 main 101 [INFO][__init__] load Visual Words
+2018-08-12 16:58:56,718 main 71 [INFO][__init__] --- Start [BagOfVisualWords.__init__] ---
+2018-08-12 16:58:56,718 main 90 [INFO][__init__] --- End [BagOfVisualWords.__init__] ---
+2018-08-12 16:58:56,718 main 160 [INFO][load_visual_words] --- Start [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:58:56,733 main 164 [INFO][load_visual_words] --- End [BagOfVisualWords.load_visual_words] ---
+2018-08-12 16:58:56,733 main 106 [INFO][__init__] load MiniMaxScaler
+2018-08-12 16:58:56,733 main 112 [INFO][__init__] --- exit[Tenfo.__init__] ---
+2018-08-12 16:58:56,733 main 130 [INFO][read_image] --- enter[Tenfo.read_image] ---
+2018-08-12 16:58:56,733 main 132 [INFO][read_image] image read: resource\image\windowsapp\window.bmp
+2018-08-12 16:58:56,733 main 133 [INFO][read_image] --- exit[Tenfo.read_image] ---
+2018-08-12 16:58:56,733 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:56,811 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:56,811 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:56,811 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:56,811 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:58:56,811 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:56,874 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:56,874 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:56,874 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:56,874 main 42 [INFO][<module>] recognized: 7m
+2018-08-12 16:58:56,874 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:56,936 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:56,936 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:56,936 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:56,936 main 42 [INFO][<module>] recognized: 4m
+2018-08-12 16:58:56,936 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:56,999 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:56,999 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:56,999 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:56,999 main 42 [INFO][<module>] recognized: 9m
+2018-08-12 16:58:56,999 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,030 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,030 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,030 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,030 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:57,030 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,046 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,046 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,046 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,046 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:57,046 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,077 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,077 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,077 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,077 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:58:57,077 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,108 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,108 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,108 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,108 main 42 [INFO][<module>] recognized: nan
+2018-08-12 16:58:57,108 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,124 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,124 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,124 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,124 main 42 [INFO][<module>] recognized: 3p
+2018-08-12 16:58:57,124 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,139 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,139 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,139 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,139 main 42 [INFO][<module>] recognized: 1p
+2018-08-12 16:58:57,139 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,155 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,155 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,171 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,171 main 42 [INFO][<module>] recognized: 7p
+2018-08-12 16:58:57,171 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,264 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,264 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,264 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,264 main 42 [INFO][<module>] recognized: 3s
+2018-08-12 16:58:57,264 main 145 [INFO][predict] --- enter[Tenfo.predict] ---
+2018-08-12 16:58:57,406 main 149 [INFO][predict] histogram: 128
+2018-08-12 16:58:57,406 main 152 [INFO][predict] normalized: 128
+2018-08-12 16:58:57,406 main 160 [INFO][predict] --- exit[Tenfo.predict] ---
+2018-08-12 16:58:57,406 main 42 [INFO][<module>] recognized: 5s
+2018-08-12 16:58:57,406 main 165 [INFO][dislpay] --- enter[Tenfo.dislpay] ---
+2018-08-12 17:01:51,157 main 186 [INFO][dislpay] --- exit[Tenfo.dislpay] ---
+2018-08-12 17:01:51,157 main 45 [INFO][<module>] --- end ---

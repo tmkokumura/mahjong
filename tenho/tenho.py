@@ -6,8 +6,9 @@ import window_handler
 
 
 class Tenho:
-    MODEL_FILE = 'resource\\image\\windowsapp\\model\\svm.dat'
-    VISUAL_WORDS = 'resource\\image\\windowsapp\\visual_words\\visual_words.txt'
+    MODEL_FILE = 'resource\\model\\svm.dat'
+    SCALER_FILE = 'resource\\model\\scaler.dat'
+    VISUAL_WORDS = 'resource\\visual_words\\visual_words.txt'
 
     def _get_hai_id(self, pred_class):
         if pred_class == 0:
@@ -88,9 +89,9 @@ class Tenho:
         return hai_id
 
     def __init__(self):
-        self._logger = getLogger(__name__)
+        self._logger = getLogger('main')
 
-        self._logger.info('--- Start[Tenfo.__init__] ---')
+        self._logger.info('--- enter[Tenfo.__init__] ---')
 
         # SVMモデルのロード
         self._logger.info('load SVM model')
@@ -101,10 +102,14 @@ class Tenho:
         self._bovw = BagOfVisualWords()
         self._bovw.load_visual_words(Tenho.VISUAL_WORDS)
 
+        # MiniMaxScalerのロード
+        self._logger.info('load MiniMaxScaler')
+        self._scaler = pickle.load(open(Tenho.SCALER_FILE, 'rb'))
+
         self._window = None
         self._predicts = []
 
-        self._logger.info('--- End[Tenfo.__init__] ---')
+        self._logger.info('--- exit[Tenfo.__init__] ---')
 
     def read_window(self):
         """
@@ -112,9 +117,9 @@ class Tenho:
         :return:
         """
 
-        self._logger.info('--- Start[Tenfo.read_window] ---')
+        self._logger.info('--- enter[Tenfo.read_window] ---')
         self._window = window_handler.screenshot()
-        self._logger.info('--- End[Tenfo.read_window] ---')
+        self._logger.info('--- exit[Tenfo.read_window] ---')
 
     def read_image(self, file_name):
         """
@@ -122,10 +127,10 @@ class Tenho:
         :param file_name:
         :return: None
         """
-        self._logger.info('--- Start[Tenfo.read_image] ---')
+        self._logger.info('--- enter[Tenfo.read_image] ---')
         self._window = cv2.imread(file_name)
         self._logger.info('image read: ' + file_name)
-        self._logger.info('--- End[Tenfo.read_image] ---')
+        self._logger.info('--- exit[Tenfo.read_image] ---')
 
     def predict(self, x, y, width, height):
         """
@@ -137,44 +142,48 @@ class Tenho:
         :return: 認識結果
         """
 
-        self._logger.info('--- Start[Tenfo.predict] ---')
+        self._logger.info('--- enter[Tenfo.predict] ---')
 
         hai_img = self._window[y: y + height, x: x + width]
-        cv2.imshow('window', hai_img)
-        cv2.waitKey(0)
         hist = [self._bovw.get_histogram(hai_img)]
+        self._logger.info('histogram: {}'.format(len(hist[0])))
+
+        hist = self._scaler.transform(hist)
+        self._logger.info('normalized: {}'.format(len(hist[0])))
+
         pred = self._clf.predict(hist)
         hai_str = self._get_hai_id(pred)
 
+
         self._predicts.append([x, y, width, height, hai_str])
 
-        self._logger.info('--- End[Tenfo.predict] ---')
+        self._logger.info('--- exit[Tenfo.predict] ---')
 
         return hai_str
 
     def dislpay(self, size):
-        self._logger.info('--- Start[Tenfo.dislpay] ---')
+        self._logger.info('--- enter[Tenfo.dislpay] ---')
         for predict in self._predicts:
             # 矩形の書き込み
             cv2.rectangle(
                 self._window,
                 (predict[0], predict[1]),
                 (predict[0] + predict[2], predict[1] + predict[3]),
-                (255, 0, 0),
+                (0, 0, 255),
                 thickness=2
             )
             # 文字の書き込み
             fontFace = cv2.FONT_HERSHEY_PLAIN
-            fontScale = 2.0
-            color = (255, 255, 0)
-            cv2.putText(self._window, predict[4], (predict[0], predict[1]), fontFace, fontScale, color, thickness=2)
+            fontScale = 1.5
+            color = (0, 0, 255)
+            cv2.putText(self._window, predict[4], (predict[0] - 2, predict[1] - 2), fontFace, fontScale, color, thickness=2)
 
         resize_img = cv2.resize(self._window, None, fx=size, fy=size)
         cv2.imshow('window', resize_img)
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
-        self._logger.info('--- End[Tenfo.dislpay] ---')
+        self._logger.info('--- exit[Tenfo.dislpay] ---')
 
 
 

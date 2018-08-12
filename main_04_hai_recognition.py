@@ -3,8 +3,8 @@ from logging import getLogger, StreamHandler, Formatter, FileHandler, DEBUG, INF
 
 # Log Settings
 LOG_DIR = 'log\\'
-LOG_FILE = 'main_03_gridsearch.py.log'
-logger = getLogger(__name__)
+LOG_FILE = 'main_04_hai_recognition.py.log'
+logger = getLogger('main')
 log_fmt = Formatter('%(asctime)s %(name)s %(lineno)d [%(levelname)s][%(funcName)s] %(message)s')
 log_handler = StreamHandler()
 log_handler.setLevel(INFO)
@@ -19,7 +19,7 @@ logger.info('--- start ---')
 
 tenho = Tenho()
 
-file_name = 'C:\\Users\\okumura.tomoki\\PycharmProjects\\Mahjong\\resource\\image\\windowsapp\\window.bmp'
+file_name = 'resource\\image\\windowsapp\\window.bmp'
 tenho.read_image(file_name)
 
 
