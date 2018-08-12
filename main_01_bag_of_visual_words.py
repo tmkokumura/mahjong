@@ -1,5 +1,4 @@
 from logging import getLogger, StreamHandler, Formatter, FileHandler, DEBUG, INFO
-import numpy as np
 from feature.bag_of_visual_words import BagOfVisualWords
 
 # Log Settings
@@ -26,7 +25,7 @@ file_name_Y = 'resource\\data\\y.txt'
 
 # 1.BagOfVisualWordsインスタンスの初期化
 logger.info('--- init BagOfVisualWords ---')
-bvw = BagOfVisualWords(BagOfVisualWords.SIFT)
+bvw = BagOfVisualWords(BagOfVisualWords.AKAZE)
 
 # 2.Visual Wordsの生成
 logger.info('--- create visual words ---')

@@ -7,6 +7,7 @@
 import cv2
 import os
 import numpy as np
+from tqdm import tqdm
 from sklearn.cluster import MiniBatchKMeans
 from logging import getLogger
 
@@ -68,16 +69,18 @@ class BagOfVisualWords:
         """
         self._logger = getLogger('main')
 
-        self._logger.info('--- Start [BagOfVisualWords.__init__] ---')
+        self._logger.info('--- enter [BagOfVisualWords.__init__] ---')
 
         # 特徴検出器の初期化
         if detector == BagOfVisualWords.SIFT:
             self._detector = cv2.xfeatures2d.SIFT_create()
             self._dim = 128
         elif detector == BagOfVisualWords.SURF:
-            pass
+            self._detector = cv2.xfeatures2d.SURF_create()
+            self._dim = 128
         elif detector == BagOfVisualWords.AKAZE:
-            pass
+            self._detector = cv2.AKAZE_create()
+            self._dim = 61
 
         # Visual Wordsの初期化
         self._visual_words = None
@@ -87,7 +90,7 @@ class BagOfVisualWords:
         self._Y = None
         self._num = 0
 
-        self._logger.info('--- End [BagOfVisualWords.__init__] ---')
+        self._logger.info('--- exit [BagOfVisualWords.__init__] ---')
 
     """
     パブリックメソッド
@@ -99,7 +102,7 @@ class BagOfVisualWords:
         :return: None
         """
 
-        self._logger.info('--- Start [BagOfVisualWords.create_visual_words] ---')
+        self._logger.info('--- enter [BagOfVisualWords.create_visual_words] ---')
 
         features = []
 
@@ -107,7 +110,7 @@ class BagOfVisualWords:
         child_dir_list = os.listdir(src_dir)
 
         # クラスごとのループ
-        for dir_name in child_dir_list:
+        for dir_name in tqdm(child_dir_list):
 
             # 画像ファイル名の取得
             file_list = os.listdir(os.path.join(src_dir, dir_name))
@@ -133,9 +136,9 @@ class BagOfVisualWords:
         self._logger.debug('Calculating visual words')
 
         # https://blanktar.jp/blog/2016/03/python-visual-words.html
-        self._visual_words = MiniBatchKMeans(n_clusters=128).fit(features).cluster_centers_
+        self._visual_words = MiniBatchKMeans(n_clusters=self._dim).fit(features).cluster_centers_
 
-        self._logger.info('--- End [BagOfVisualWords.create_visual_words] ---')
+        self._logger.info('--- exit [BagOfVisualWords.create_visual_words] ---')
 
     def save_visual_words(self, file_name):
         """
@@ -144,11 +147,11 @@ class BagOfVisualWords:
         :return: None
         """
 
-        self._logger.info('--- Start [BagOfVisualWords.save_visual_words] ---')
+        self._logger.info('--- enter [BagOfVisualWords.save_visual_words] ---')
 
         self._write_file_2d(self._visual_words, file_name)
 
-        self._logger.info('--- End [BagOfVisualWords.save_visual_words] ---')
+        self._logger.info('--- exit [BagOfVisualWords.save_visual_words] ---')
 
     def load_visual_words(self, file_name):
         """
@@ -157,11 +160,11 @@ class BagOfVisualWords:
         :return: None
         """
 
-        self._logger.info('--- Start [BagOfVisualWords.load_visual_words] ---')
+        self._logger.info('--- enter [BagOfVisualWords.load_visual_words] ---')
 
         self._visual_words = self.read_file(file_name)
 
-        self._logger.info('--- End [BagOfVisualWords.load_visual_words] ---')
+        self._logger.info('--- exit [BagOfVisualWords.load_visual_words] ---')
 
     def get_histogram(self, img):
         """
@@ -169,6 +172,9 @@ class BagOfVisualWords:
         :param img: 入力画像
         :return: ヒストグラム
         """
+
+        self._logger.debug('--- enter [BagOfVisualWords.get_histogram] ---')
+
         # 特徴検出と特徴量の記述
         kp, des = self._detector.detectAndCompute(img, None)
 
@@ -195,6 +201,8 @@ class BagOfVisualWords:
             # もっとも距離が近かったVisual Wordに投票する
             hist[min_index] += 1
 
+        self._logger.debug('--- exit [BagOfVisualWords.get_histogram] ---')
+
         return hist
 
     def create_data_set(self, src_dir):
@@ -205,7 +213,7 @@ class BagOfVisualWords:
         :return: None
         """
 
-        self._logger.info('--- Start [BagOfVisualWords.create_data_set] ---')
+        self._logger.info('--- enter [BagOfVisualWords.create_data_set] ---')
 
         hists = []
         classes = []
@@ -215,7 +223,7 @@ class BagOfVisualWords:
 
         # クラスごとのループ
         image_index = 0
-        for class_index, dir_name in enumerate(child_dir_list):
+        for class_index, dir_name in enumerate(tqdm(child_dir_list)):
 
             # 画像ファイル名の取得
             file_list = os.listdir(os.path.join(src_dir, dir_name))
@@ -235,7 +243,7 @@ class BagOfVisualWords:
         self._Y = np.array(classes)
         self._num = image_index
 
-        self._logger.info('--- End [BagOfVisualWords.create_data_set] ---')
+        self._logger.info('--- exit [BagOfVisualWords.create_data_set] ---')
 
     def save_data_set(self, file_name_X, file_name_Y):
         """
@@ -244,9 +252,9 @@ class BagOfVisualWords:
         :param file_name_Y: データYのファイル名
         :return: None
         """
-        self._logger.info('--- Start [BagOfVisualWords.save_data_set] ---')
+        self._logger.info('--- enter [BagOfVisualWords.save_data_set] ---')
 
         self._write_file_2d(self._X, file_name_X)
         self._write_file_1d(self._Y, file_name_Y)
 
-        self._logger.info('--- End [BagOfVisualWords.save_data_set] ---')
+        self._logger.info('--- exit [BagOfVisualWords.save_data_set] ---')
