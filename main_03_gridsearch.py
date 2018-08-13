@@ -47,14 +47,14 @@ logger.info('model dumped: ' + file_name_scaler)
 # 3. グリッドサーチ
 logger.info('--- grid search ---')
 param_grid = {
-    'C': [5.0],
+    'C': [0.1, 1, 10],
     'kernel': ['rbf'],
-    'gamma': [0.2],
+    'gamma': [0.1, 1, 10],
     'random_state': [0],
     'probability': [True]
 }
 clf = SVC()
-grid = GridSearchCV(clf, param_grid=param_grid, cv=5, scoring='accuracy', return_train_score=True)
+grid = GridSearchCV(clf, param_grid=param_grid, cv=5, scoring='accuracy', return_train_score=True, verbose=3)
 grid.fit(x, y)
 logger.info('max_auc: {}'.format(grid.best_score_))
 logger.info('max_params: {}'.format(grid.best_params_))

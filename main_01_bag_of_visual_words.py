@@ -25,7 +25,7 @@ file_name_Y = 'resource\\data\\y.txt'
 
 # 1.BagOfVisualWordsインスタンスの初期化
 logger.info('--- init BagOfVisualWords ---')
-bvw = BagOfVisualWords(BagOfVisualWords.AKAZE)
+bvw = BagOfVisualWords(detector=BagOfVisualWords.AKAZE)
 
 # 2.Visual Wordsの生成
 logger.info('--- create visual words ---')
